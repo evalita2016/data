@@ -37,28 +37,28 @@ DATA
 
 Data repository structure:
 
-|-*artiphone: ArtiPhon data*<br>
+|-**artiphone: ArtiPhon data**<br>
 |----cnz_1.0.0<br>
 |----test\_artiphone\_lables.zip<br>
-|-*facta: FactA data*<br>
+|-**facta: FactA data**<br>
 |----evalita2016\_facta\_gold\_pilot.tsv<br>
 |----evalita2016\_facta\_tweet\_id\_pilot<br>
-|-*neelit: NEEL-IT data*<br>
+|-**neelit: NEEL-IT data**<br>
 |----neel-it16\_dev-set\_v4: training set folder<br>
 |----neel-it\_evalita2016-nil.gold.idfix: goldstandard annotations<br>
 |----neel-it\_evalita2016\_v3.data.gold.test: Test set<br>
-|-*postwita: PoSTWITA data*<br>
+|-**postwita: PoSTWITA data**<br>
 |-----goldDEVset-2016\_09\_05.txt: training set data<br>
 |-----goldTESTset-2016_09_12.txt: test set data<br>
-|-*qa4faq: QA4FAQ data*<br>
+|-**qa4faq: QA4FAQ data**<br>
 |-----qa4faq\_dev\_v3: training data folder<br>
 |-----qa4faq\_qrel: relevance judgments<br>
 |-----qa4faq\_qrel.trec: relevance judgments (TREC format)<br>
 |-----qa4faq_question: questions for testing<br>
-|-*sentipolc: SENTIPOLC data*<br>
+|-**sentipolc: SENTIPOLC data**<br>
 |-----sentipolc16\_gold2000.csv: test set<br>
 |-----sentipolc16\_officialdistrib\_train.csv: training set<br>
-|-shared: Files in this directory contain tweet ids shared between tasks<br>
+|-**shared** Files in this directory contain tweet ids shared between tasks<br>
 |-EVALITA 2016 overview: Overview of the 5th Evaluation Campaign
 of Natural Language Processing and Speech Tools for Italian
 
