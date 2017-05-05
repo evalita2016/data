@@ -37,28 +37,28 @@ DATA
 
 Data repository structure:
 
-|-*artiphone: ArtiPhon data*
-|----cnz_1.0.0
-|----test\_artiphone\_lables.zip
-|-*facta: FactA data*
-|----evalita2016\_facta\_gold\_pilot.tsv
-|----evalita2016\_facta\_tweet\_id\_pilot
-|-*neelit: NEEL-IT data*
-|----neel-it16\_dev-set\_v4: training set folder
-|----neel-it\_evalita2016-nil.gold.idfix: goldstandard annotations
-|----neel-it\_evalita2016\_v3.data.gold.test: Test set
-|-*postwita: PoSTWITA data*
-|-----goldDEVset-2016\_09\_05.txt: training set data
-|-----goldTESTset-2016_09_12.txt: test set data
-|-*qa4faq: QA4FAQ data*
-|-----qa4faq\_dev\_v3: training data folder
-|-----qa4faq\_qrel: relevance judgments
-|-----qa4faq\_qrel.trec: relevance judgments (TREC format)
-|-----qa4faq_question: questions for testing
-|-*sentipolc: SENTIPOLC data*
-|-----sentipolc16\_gold2000.csv: test set
-|-----sentipolc16\_officialdistrib\_train.csv: training set
-|-shared: Files in this directory contain tweet ids shared between tasks
+|-*artiphone: ArtiPhon data*<br>
+|----cnz_1.0.0<br>
+|----test\_artiphone\_lables.zip<br>
+|-*facta: FactA data*<br>
+|----evalita2016\_facta\_gold\_pilot.tsv<br>
+|----evalita2016\_facta\_tweet\_id\_pilot<br>
+|-*neelit: NEEL-IT data*<br>
+|----neel-it16\_dev-set\_v4: training set folder<br>
+|----neel-it\_evalita2016-nil.gold.idfix: goldstandard annotations<br>
+|----neel-it\_evalita2016\_v3.data.gold.test: Test set<br>
+|-*postwita: PoSTWITA data*<br>
+|-----goldDEVset-2016\_09\_05.txt: training set data<br>
+|-----goldTESTset-2016_09_12.txt: test set data<br>
+|-*qa4faq: QA4FAQ data*<br>
+|-----qa4faq\_dev\_v3: training data folder<br>
+|-----qa4faq\_qrel: relevance judgments<br>
+|-----qa4faq\_qrel.trec: relevance judgments (TREC format)<br>
+|-----qa4faq_question: questions for testing<br>
+|-*sentipolc: SENTIPOLC data*<br>
+|-----sentipolc16\_gold2000.csv: test set<br>
+|-----sentipolc16\_officialdistrib\_train.csv: training set<br>
+|-shared: Files in this directory contain tweet ids shared between tasks<br>
 |-EVALITA 2016 overview: Overview of the 5th Evaluation Campaign
 of Natural Language Processing and Speech Tools for Italian
 
@@ -66,12 +66,12 @@ Each task folder contains a PDF document that describes the task and data format
 
 If you use these data in writing scientific papers, or you use this data in any other medium serving scientists or students (e.g. web-sites, CD-ROMs) please include the following citation:
 
-@CONFERENCE{Evalita2016,
-author={Basile, P. and Cutugno, F. and Nissim, M. and Patti, V. and Sprugnoli, R.},
-title={EVALITA 2016: Overview of the 5th evaluation campaign of natural language processing and speech tools for Italian},
-journal={CEUR Workshop Proceedings},
-year={2016},
-volume={1749},
+@CONFERENCE{Evalita2016,<br>
+author={Basile, P. and Cutugno, F. and Nissim, M. and Patti, V. and Sprugnoli, R.},<br>
+title={EVALITA 2016: Overview of the 5th evaluation campaign of natural language processing and speech tools for Italian},<br>
+journal={CEUR Workshop Proceedings},<br>
+year={2016},<br>
+volume={1749},<br>
 }
 
 LICENSE
