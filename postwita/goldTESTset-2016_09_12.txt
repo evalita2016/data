@@ -1,0 +1,5361 @@
+_____563811619483176961_____
+“	PUNCT
+@django162_	MENTION
+:	PUNCT
+@RosaSelina	MENTION
+solo	ADV
+un	DET
+dm	NOUN
+la	PRON
+pregooo	VERB
+...	PUNCT
+se	SCONJ
+nn	ADV
+le	PRON
+piaccio	VERB
+mi	PRON
+def	X
+ok	INTJ
+?	PUNCT
+😜😂	EMO
+”	PUNCT
+vita	NOUN
+mia	ADJ
+
+_____562679456184426497_____
+"	PUNCT
+E	CONJ
+non	ADV
+è	AUX
+detto	VERB
+che	SCONJ
+non	ADV
+ci	PRON
+si	PRON
+riunisca	VERB
+,	PUNCT
+nella	ADP_A
+vita	NOUN
+non	ADV
+si	PRON
+può	AUX
+mai	ADV
+dire	VERB
+"	PUNCT
+<3	EMO
+#sacre	HASHTAG
+http://t.co/9ucTyNllxx	URL
+
+_____587553420678209536_____
+Italia	PROPN
+tappa	VERB
+buchi	NOUN
+:	PUNCT
+ha	AUX
+salvato	VERB
+le	DET
+banche	NOUN
+Tedesche	ADJ
+e	CONJ
+Francesi	ADJ
+http://t.co/qbX5lQwyFK	URL
+
+_____567785841876299777_____
+Amore	PROPN
+voglio	VERB
+un	DET
+bambino	NOUN
+
+_____579013335921885184_____
+@LudovicaCagnino	MENTION
+Grazie	INTJ
+AMORE	PROPN
+
+_____581565361805488128_____
+Cosa	PRON
+ridi	VERB
+te	PRON
+??	PUNCT
+E	CONJ
+io	PRON
+che	PRON
+cerco	VERB
+di	ADP
+aiutarti	VERB_CLIT
+anche	ADV
+*	SYM
+sbuffa	VERB
+*	SYM
+
+_____638889466879414272_____
+@raynbowvshar	MENTION
+@xxtaylorshug	MENTION
+@IShipLarrySTYL	MENTION
+ti	PRON
+vogliamo	VERB
+bene	ADV
+anche	ADV
+noi	PRON
+Harry	PROPN
+
+_____645201849885306880_____
+Chi	PRON
+siamo	VERB
+noi	PRON
+per	ADP
+privare	VERB
+gli	DET
+altri	PRON
+della	ADP_A
+dignità	NOUN
+#rifugiati	HASHTAG
+no	ADV
+#clandestini	HASHTAG
+
+_____634804868868345856_____
+quanto	PRON
+sono	VERB
+bravi	ADJ
+,	PUNCT
+fdgjdkjgd	X
+https://t.co/YgOInkV7o8	URL
+via	ADP
+@YouTube	MENTION
+
+_____618163286689906690_____
+Gli	DET
+anni	NOUN
+passano	VERB
+e	CONJ
+Azzurra	PROPN
+man	NOUN
+mano	NOUN
+aumenta	VERB
+le	DET
+difficoltà	NOUN
+delle	ADP_A
+attrazioni	NOUN
+.	PUNCT
+Mi	PRON
+è	AUX
+toccata	VERB
+anche	ADV
+Atlantide	PROPN
+,	PUNCT
+per...	X
+http://t.co/shIcKmkWAu	URL
+
+_____586206301744672768_____
+@xadamsvoice	MENTION
+anche	ADV
+questo	PRON
+per	ADP
+favore	NOUN
+😦	EMO
+
+_____643349736867688448_____
+Perché	SCONJ
+alla	ADP_A
+fine	NOUN
+siamo	VERB
+una	DET
+famiglia	NOUN
+e	CONJ
+la	DET
+famiglia	NOUN
+non	ADV
+va	AUX
+mai	ADV
+abbandonata	VERB
+💕	EMO
+#WeWillMeetAgain1D	HASHTAG
+http://t.co/1XxQ0kBJVB	URL
+
+_____595620834028298241_____
+#news	HASHTAG
+La	DET
+scuola	NOUN
+in	ADP
+piazza	NOUN
+contro	ADP
+la	DET
+riforma	NOUN
+Matteo	PROPN
+Renzi	PROPN
+:	PUNCT
+"	PUNCT
+Ascoltiamo	VERB
+la	DET
+...	PUNCT
+-	PUNCT
+TGCOM	PROPN
+http://t.co/CPTw7f9oYI	URL
+
+_____616535334797639680_____
+sto	AUX
+aspettando	VERB
+mamma	NOUN
+fuori	ADP
+scuola	NOUN
+✨✨	EMO
+http://t.co/Nz7cpRjPjL	URL
+
+_____563778463291965440_____
+arriverà	VERB
+anche	ADV
+la	DET
+foto	NOUN
+con	ADP
+peter	PROPN
+e	CONJ
+jenna	PROPN
+insieme	ADV
+non	ADV
+preoccupatevi	VERB_CLIT
+riserviamo	VERB
+i	DET
+tweet	NOUN
+per	ADP
+quando	SCONJ
+sarà	VERB
+il	DET
+momento	NOUN
+perché	SCONJ
+ce	PRON
+ne	PRON
+sarà	VERB
+bisogno	NOUN
+
+_____578210444000772096_____
+Empoli	PROPN
+:	PUNCT
+Daspo	NOUN
+di	ADP
+5	NUM
+anni	NOUN
+per	ADP
+un	DET
+tifoso	NOUN
+-	PUNCT
+Un	DET
+ultrà	NOUN
+27enne	ADJ
+colpì	VERB
+un	DET
+supporter	NOUN
+della	ADP_A
+Juve	PROPN
+con	ADP
+una	DET
+testata	NOUN
+http://t.co/vaeoIGs8is	URL
+
+_____554437672207667200_____
+@ChiaZe93	MENTION
+io	PRON
+non	ADV
+sono	VERB
+d'	ADP
+accordo	NOUN
+che	SCONJ
+abbiano	AUX
+nominato	VERB
+grand	PROPN
+Budapest	PROPN
+hotel	PROPN
+e	CONJ
+il	DET
+libro	PROPN
+della	PROPN
+vita	PROPN
+
+_____645919232367161344_____
+Oggi	ADV
+tutti	PRON
+che	PRON
+iniziano	VERB
+l'	DET
+università	NOUN
+e	CONJ
+io	PRON
+sul	ADP_A
+divano	NOUN
+a	ADP
+vegetare	VERB
+aspettando	VERB
+i	DET
+risultati	NOUN
+del	ADP_A
+test	NOUN
+che	PRON
+usciranno	VERB
+tra	ADP
+quattro	NUM
+giorni	NOUN
+:)))	EMO
+
+_____605512834697580545_____
+Però	ADV
+tutto	PRON
+sommato	VERB
+è	VERB
+un	DET
+ragazzo	NOUN
+stra	ADV
+carino	ADJ
+e	CONJ
+dolce	ADJ
+😕	EMO
+forse	ADV
+finalmente	ADV
+è	VERB
+la	DET
+volta	NOUN
+che	PRON
+riesco	VERB
+a	ADP
+voltare	VERB
+pagina	NOUN
+..	PUNCT
+
+_____571902401826983936_____
+A1	PROPN
+Roma	PROPN
+-	PUNCT
+Napoli	PROPN
+nebbia	NOUN
+a	ADP
+banchi	NOUN
+tra	ADP
+Colleferro	PROPN
+(	PUNCT
+Km	NOUN
+.	PUNCT
+592,5	NUM
+)	PUNCT
+e	CONJ
+Anagni	PROPN
+-	PUNCT
+Fiuggi	PROPN
+(	PUNCT
+Km	NOUN
+.	PUNCT
+603,5	NUM
+)	PUNCT
+dalle	ADP_A
+06:14	NUM
+del	ADP_A
+01	NUM
+mar	NOUN
+2015	NUM
+http://t.co/BpX2e4LfaR	URL
+
+_____634900943667109889_____
+@onedsinfinity	MENTION
+che	SCONJ
+la	DET
+forza	NOUN
+sia	VERB
+con	ADP
+noi	PRON
+
+_____580309978138996736_____
+Ancora	ADV
+qualche	DET
+posto	NOUN
+disponibile	ADJ
+per	ADP
+il	DET
+Porte	PROPN
+aperte	PROPN
+di	ADP
+Giovedì	NOUN
+prossimo	ADJ
+!	PUNCT
+Affrettati	VERB_CLIT
+a	ADP
+prenotare	VERB
+la	DET
+tua	ADJ
+...	PUNCT
+http://t.co/3u4gZ5P4Gu	URL
+
+_____636941666855841792_____
+@itsandreyamst	MENTION
+quanto	PRON
+odio	VERB
+da	ADP
+uno	NUM
+a	ADP
+dieci	NUM
+
+_____554588784910950400_____
+@MatteoSciascia	MENTION
+@matteomarani	MENTION
+nei	ADP_A
+primi	ADJ
+45'	NUM
+era	VERB
+cosi	ADV
+...	PUNCT
+Poi	ADV
+vabbe	INTJ
+che	SCONJ
+fa	VERB
+due	NUM
+gol	NOUN
+,	PUNCT
+ma	CONJ
+è	VERB
+solo	ADV
+dannoso	ADJ
+per	ADP
+la	DET
+roma	PROPN
+,	PUNCT
+un	DET
+bene	NOUN
+per	ADP
+la	DET
+Juve	PROPN
+
+_____570583722485022720_____
+Nickelodeon	PROPN
+Kids	PROPN
+’	PUNCT
+Choice	PROPN
+Awards	PROPN
+:	PUNCT
+tutti	DET
+i	DET
+premi	NOUN
+dei	ADP_A
+One	PROPN
+Direction	PROPN
+negli	ADP_A
+anni	NOUN
+http://t.co/gRnYaY4QNd	URL
+via	ADP
+@team_world	MENTION
+
+_____566759147723448320_____
+Terrorismo	NOUN
+:	PUNCT
+sparatoria	NOUN
+alla	ADP_A
+sinagoga	NOUN
+di	ADP
+Copenhagen	PROPN
+,	PUNCT
+3	NUM
+feriti	VERB
+http://t.co/RK5S5XGcPU	URL
+
+_____602932772735361024_____
+@chiccacor	MENTION
+domenica	NOUN
+spaccate	VERB
+....	PUNCT
+solo	ADV
+uno	DET
+stadio	NOUN
+come	ADP
+il	DET
+San	PROPN
+Paolo	PROPN
+può	AUX
+e	CONJ
+deve	AUX
+fare	VERB
+la	DET
+differenza	NOUN
+💛	EMO
+❤	EMO
+💛	EMO
+❤	EMO
+
+_____569896827857846272_____
+@Raindog254	MENTION
+sbraitava	VERB
+e	CONJ
+capisco	VERB
+che	SCONJ
+si	PRON
+tratta	VERB
+della	ADP_A
+Persona	NOUN
+che	PRON
+ha	AUX
+vinto	VERB
+l'	DET
+ultimo	ADJ
+Sanremo	PROPN
+.	PUNCT
+TI	PRON
+RENDI	VERB
+CONTO	NOUN
+?	PUNCT
+Xchè	ADV
+èStataPremiataUna	X
+"	PUNCT
+cosa	NOUN
+"	PUNCT
+cosi	ADV
+!?	PUNCT
+
+_____574172805668978688_____
+Dear	ADJ
+mrs	NOUN
+@gretamenchi	MENTION
+💖	EMO
+Potresti	AUX
+seguirmi	VERB_CLIT
+?	PUNCT
+💎	EMO
+Ti	PRON
+voglio	VERB
+bene	ADV
+🌸	EMO
+x9	EMO
+
+_____619255317247848448_____
+Roma	PROPN
+,	PUNCT
+ascensore	NOUN
+bloccato	VERB
+in	ADP
+metrò	VERB
+:	PUNCT
+nel	ADP_A
+trasbordo	NOUN
+bimbo	NOUN
+cade	VERB
+e	CONJ
+...	PUNCT
+-	PUNCT
+TGCOM	PROPN
+http://t.co/Np8QBdKo2p	URL
+
+_____576268137995378688_____
+Ci	PRON
+sono	VERB
+ragazzi	NOUN
+tedeschi	ADJ
+nella	ADP_A
+scuola	NOUN
+,	PUNCT
+minchia	INTJ
+so'	VERB
+tutti	PRON
+biondi	ADJ
+con	ADP
+gli	DET
+occhi	NOUN
+azzurri	ADJ
+
+_____637664488444030976_____
+Ucciso	VERB
+a	ADP
+bastonate	NOUN
+,	PUNCT
+moglie	NOUN
+al	ADP_A
+gip	NOUN
+:	PUNCT
+"	PUNCT
+Lo	PRON
+amavo	VERB
+anche	ADV
+se	SCONJ
+era	VERB
+violento	ADJ
+,	PUNCT
+sono	VERB
+pentita	ADJ
+"	PUNCT
+(	PUNCT
+Adnkronos	PROPN
+)	PUNCT
+http://t.co/bxRjRzpgT1	URL
+
+_____563218053731979264_____
+E	CONJ
+adesso	ADV
+...	PUNCT
+si	PRON
+ride	VERB
+!!!	PUNCT
+Forza	INTJ
+cuore	NOUN
+impavido	ADJ
+colpisci	VERB
+!!!!	PUNCT
+
+_____579208444542074880_____
+Pappagallini	PROPN
+&	PROPN
+Co	PROPN
+.	PUNCT
+le	DET
+specie	NOUN
+aliene	ADJ
+che	PRON
+stanno	AUX
+invadendo	VERB
+l'	DET
+Italia	PROPN
+http://t.co/RipARhR34s	URL
+
+_____582916637755576320_____
+Sono	AUX
+stata	VERB
+mezz'	ADJ
+ora	NOUN
+a	ADP
+casa	NOUN
+oggi	ADV
+e	CONJ
+sono	AUX
+riuscita	VERB
+a	ADP
+fare	VERB
+solo	ADV
+danni	NOUN
+
+_____576437782501015552_____
+Visto	VERB
+che	PRON
+bravi	ADJ
+i	DET
+nostri	ADJ
+parlamentari	NOUN
+che	PRON
+in	ADP
+questi	DET
+giorni	NOUN
+stanno	AUX
+"	PUNCT
+invadendo	VERB
+"	PUNCT
+le	DET
+tv	NOUN
+nazionali	ADJ
+?	PUNCT
+Anche	ADV
+questo	DET
+...	PUNCT
+http://t.co/uf02aUYZJq	URL
+
+_____584010136563408896_____
+@jniall68	MENTION
+Grazie	ADP
+a	ADP
+te	PRON
+perché	SCONJ
+pensi	VERB
+un	DET
+po'	NOUN
+a	ADP
+noi	PRON
+!	PUNCT
+XX	X
+
+_____636905718440980480_____
+vogliamo	VERB
+@enzo_salvi	MENTION
+come	ADP
+sindaco	NOUN
+di	ADP
+roma	PROPN
+
+_____601064865659256832_____
+Io	PRON
+amo	VERB
+andare	VERB
+in	ADP
+centro	NOUN
+a	ADP
+fare	VERB
+shopping	NOUN
+
+_____567376800003919872_____
+Che	DET
+bisogno	NOUN
+c'	PRON
+è	VERB
+delle	ADP_A
+riforme	NOUN
+di	ADP
+Renzi	PROPN
+?	PUNCT
+Perché	ADV
+non	ADV
+ascoltare	VERB
+Grillo	PROPN
+,	PUNCT
+Salvini	PROPN
+,	PUNCT
+Brunetta	PROPN
+,	PUNCT
+Vendola	PROPN
+?	PUNCT
+In	ADP
+Italia	PROPN
+va	VERB
+tutto	PRON
+così	ADV
+bene	ADV
+.............	PUNCT
+
+_____615966355800653824_____
+Già	ADV
+quanto	ADV
+e	VERB
+vero	ADJ
+sto	DET
+link	NOUN
+,..	PUNCT
+http://t.co/syyfQMSXuW	URL
+
+_____630811373207826432_____
+L’	DET
+ex	ADJ
+presidente	NOUN
+della	ADP_A
+Repubblica	PROPN
+Centrafricana	PROPN
+Francois	PROPN
+Bozize	PROPN
+,	PUNCT
+ora	ADV
+in	ADP
+esilio	NOUN
+,	PUNCT
+ritornerà	VERB
+nel	ADP_A
+paese	NOUN
+per	ADP
+le	DET
+elezioni	NOUN
+…	PUNCT
+http://t.co/TFQSktjCEV	URL
+
+_____645253829232078848_____
+@serracchiani	MENTION
+@pdnetwork	MENTION
+solo	ADV
+che	SCONJ
+poi	ADV
+arriva	VERB
+@matteorenzi	MENTION
+e	CONJ
+decide	VERB
+sempre	ADV
+tutto	PRON
+lui	PRON
+
+_____561949606716911616_____
+Niente	PRON
+mi	PRON
+commuove	VERB
+maggiormente	ADV
+dell'	ADP_A
+essere	VERB
+capito	ADJ
+.	PUNCT
+Lo	PRON
+preferisco	VERB
+immensamente	ADV
+all'	ADP_A
+essere	VERB
+immaginato	ADJ
+,	PUNCT
+anche	ADV
+sotto	ADP
+la	DET
+forma	NOUN
+più	ADV
+seducente	VERB
+P.V	PROPN
+
+_____570918303767650304_____
+@1000ZIA	MENTION
+boh	INTJ
+..	PUNCT
+me	PRON
+lo	PRON
+chiedo	VERB
+ancora	ADV
+..	PUNCT
+buon	ADJ
+pomeriggio	NOUN
+cara	ADJ
+
+_____635225335890616321_____
+Io	PRON
+mi	PRON
+lamento	VERB
+della	ADP_A
+gente	NOUN
+che	PRON
+scrive	VERB
+ancora	ADV
+"	PUNCT
+freddy	PROPN
+mercury	PROPN
+"	PUNCT
+ma	CONJ
+anche	ADV
+quella	PRON
+che	PRON
+scrive	VERB
+"	PUNCT
+jhonny	PROPN
+cash	PROPN
+"	PUNCT
+non	ADV
+scherza	VERB
+
+_____594221762893713409_____
+@GrouchoMac	MENTION
+@IMorleo	MENTION
+strano	ADJ
+non	ADV
+è	VERB
+alla	ADP_A
+Scala	PROPN
+?	PUNCT
+
+_____565257331135746050_____
+@AndCappe	MENTION
+@MauroTedeschini	MENTION
+Non	ADV
+sono	VERB
+d'	ADP
+accordo	NOUN
+,	PUNCT
+le	DET
+azioni	NOUN
+dei	ADP_A
+politici	NOUN
+si	PRON
+giudicano	VERB
+in	ADP
+modo	NOUN
+serio	ADJ
+dopo	ADP
+un	DET
+lasso	NOUN
+di	ADP
+tempo	NOUN
+più	ADV
+ampio	ADJ
+
+_____599591116615196673_____
+DISINFORMAZIONE	NOUN
+Profugo	NOUN
+stupra	VERB
+la	DET
+figlia	NOUN
+della	ADP_A
+famiglia	NOUN
+italiana	ADJ
+che	PRON
+lo	PRON
+aveva	AUX
+ospitato	VERB
+–	PUNCT
+http://t.co/3SpBhGR06i	URL
+http://t.co/9TOwAjI7fa	URL
+
+_____583536373312987136_____
+Buongiorno	INTJ
+a	ADP
+tutti	PRON
+!	PUNCT
+Nuova	ADJ
+foto	NOUN
+di	ADP
+Kristen	PROPN
+in	ADP
+giro	NOUN
+per	ADP
+LA	PROPN
+con	ADP
+CJ	PROPN
+e	CONJ
+Suzie	PROPN
+!	PUNCT
+Nana	PROPN
+<3	EMO
+-	PUNCT
+Jules	PROPN
+http://t.co/o1oHm5GaOt	URL
+
+_____633095320482783234_____
+RAGA	NOUN
+noi	PRON
+stiamo	VERB
+qui	ADV
+"	PUNCT
+felici	ADJ
+"	PUNCT
+ma	CONJ
+,	PUNCT
+loro	PRON
+anche	ADV
+avendo	AUX
+vinto	VERB
+8	NUM
+categorie	NOUN
+su	ADP
+9	NUM
+,	PUNCT
+non	ADV
+erano	VERB
+molto	ADV
+felici	ADJ
+.	PUNCT
+E	CONJ
+sappiamo	VERB
+tutti	PRON
+perché	ADV
+#TeenChoiceAwards	HASHTAG
+
+_____573753040605478913_____
+@AngelicaSimiona	MENTION
+arrivo	VERB
+amore	NOUN
+😘	EMO
+http://t.co/eYIBgBbC3A	URL
+
+_____581131382891679744_____
+@_damnedangel	MENTION
+da	ADP
+bambino	NOUN
+mi	PRON
+ha	AUX
+fatto	VERB
+decidere	VERB
+per	ADP
+la	DET
+carriera	NOUN
+da	ADP
+programmatore	NOUN
+...	PUNCT
+la	DET
+scena	NOUN
+in	ADP
+cui	PRON
+Flynn	PROPN
+riassembla	VERB
+un	DET
+intercettatore	NOUN
+...	PUNCT
+😌	EMO
+
+_____596733211746643969_____
+L'	DET
+errore	NOUN
+più	ADV
+terribile	ADJ
+che	PRON
+possa	AUX
+fare	VERB
+chi	PRON
+è	AUX
+stato	VERB
+nel	ADP_A
+PCI	PROPN
+è	VERB
+pensare	VERB
+che	SCONJ
+il	DET
+PD	PROPN
+abbia	VERB
+qualcosa	PRON
+a	ADP
+che	PRON
+vedere	VERB
+con	ADP
+quella	DET
+storia	NOUN
+.	PUNCT
+Non	ADV
+è	VERB
+così	ADV
+!	PUNCT
+
+_____565470087596236800_____
+@pari_biosteria	MENTION
+Alessandro	PROPN
+#Bergonzoni	HASHTAG
+Contro	ADP
+lo	DET
+#stigma	HASHTAG
+nei	ADP_A
+confronti	NOUN
+della	ADP_A
+malattia	NOUN
+mentale	ADJ
+#passaparola	HASHTAG
+http://t.co/daHsNTcBmh	URL
+
+_____553668125733179393_____
+“	PUNCT
+@vivoditomljnson	MENTION
+:	PUNCT
+🌀	EMO
+CITA	VERB
+E	CONJ
+RISPONDI	VERB
+🌀	EMO
+sai	VERB
+fare	VERB
+la	DET
+ruota	NOUN
+?	PUNCT
+”	PUNCT
+bruttina	ADJ
+da	ADP
+vedere	VERB
+ma	CONJ
+si	INTJ
+dai	VERB
+
+_____637332468903743488_____
+Affondo	NOUN
+di	ADP
+Squinzi	PROPN
+contro	ADP
+il	DET
+sindacato	NOUN
+:	PUNCT
+"	PUNCT
+In	ADP
+Italia	PROPN
+è	VERB
+fattore	NOUN
+di	ADP
+ritardo	NOUN
+"	PUNCT
+:	PUNCT
+Il	DET
+numero	NOUN
+uno	NUM
+di	ADP
+Confidustria	PROPN
+comme...	X
+http://t.co/2YUVa34szj	URL
+
+_____635723365471416320_____
+@pizzvhaz	MENTION
+anche	ADV
+no	INTJ
+
+_____634745169842184192_____
+@Pinucciotwit	MENTION
+@EsercitoCrucian	MENTION
+la	DET
+Sicilia	PROPN
+ha	AUX
+sempre	ADV
+capito	VERB
+tutto	PRON
+in	ADP
+anticipo	NOUN
+.	PUNCT
+
+_____638442896832630784_____
+Chiacchieriamo	VERB
+•	SYM
+Re	PROPN
+:	PUNCT
+lunedì	NOUN
+31	NUM
+agosto	NOUN
+http://t.co/qZhFBIHTSv	URL
+
+_____625952961445953536_____
+Ancora	ADV
+anziani	ADJ
+truffati	VERB
+a	ADP
+Guidonia	PROPN
+Montecelio	PROPN
+,	PUNCT
+attenzione	NOUN
+a	ADP
+sedicenti	ADJ
+"	PUNCT
+avvocati	NOUN
+"	PUNCT
+dell'	ADP_A
+assicurazione	NOUN
+http://t.co/vAI0UL58dz	URL
+
+_____568840415971045377_____
+Avviso	NOUN
+ai	ADP_A
+naviganti	NOUN
+.	PUNCT
+Leggete	VERB
+bene	ADV
+le	DET
+norme	NOUN
+,	PUNCT
+i	DET
+cococo	NOUN
+non	ADV
+sono	AUX
+stati	AUX
+aboliti	VERB
+.	PUNCT
+
+_____564799228514693120_____
+Ora	ADV
+si	PRON
+svuota	VERB
+tutto	DET
+lo	DET
+studio	NOUN
+HAHAHAHHAHAHAHAHA	INTJ
+#Amici14	HASHTAG
+
+_____571655611475091456_____
+Salvini	PROPN
+a	ADP
+Roma	PROPN
+,	PUNCT
+città	NOUN
+blindata	VERB
+.	PUNCT
+3	NUM
+mila	NUM
+agenti	NOUN
+http://t.co/87QnOAOnWd	URL
+
+_____603567722413203456_____
+di	ADP
+questo	DET
+passo	NOUN
+mi	PRON
+metto	VERB
+di	ADP
+nuovo	ADJ
+a	ADP
+fare	VERB
+acacia	NOUN
+
+_____616933117350309888_____
+@Matt_GGWP	MENTION
+fallo	VERB_CLIT
+grazie	INTJ
+#Zeeroinmutande	HASHTAG
+
+_____571200295298064384_____
+Oggi	ADV
+è	VERB
+la	DET
+giornata	NOUN
+della	ADP_A
+sorpresa	NOUN
+
+_____638912639897370624_____
+#blogdicucina	HASHTAG
+:	PUNCT
+Rientrati	VERB
+alla	ADP_A
+base	NOUN
+!	PUNCT
+:	PUNCT
+Rientrati	VERB
+a	ADP
+casa	NOUN
+Domenica	NOUN
+31	NUM
+un	DET
+po'	NOUN
+prima	ADP
+di	ADP
+mezzanotte	NOUN
+…	PUNCT
+http://t.co/450cWUGlvX	URL
+
+_____603118653429649408_____
+se	SCONJ
+i	DET
+sindacati	NOUN
+vogliono	VERB
+la	DET
+trasparenza	NOUN
+in	ADP
+tutto	PRON
+,	PUNCT
+inizino	VERB
+loro	PRON
+ad	ADP
+essere	VERB
+trasparenti	ADJ
+e	CONJ
+a	ADP
+pubblicare	VERB
+compensi	NOUN
+,	PUNCT
+immobili	NOUN
+,	PUNCT
+ricavi	NOUN
+,	PUNCT
+ecc	ADV
+...	PUNCT
+
+_____582654151529758721_____
+Guardo	VERB
+la	DET
+mia	ADJ
+vita	NOUN
+da	ADP
+fuori	ADV
+
+_____601668046277767168_____
+La	DET
+misura	NOUN
+esatta	ADJ
+di	ADP
+Valeria	PROPN
+Parrella	PROPN
+:	PUNCT
+Massimo	PROPN
+Onofri	PROPN
+su	ADP
+@Avvenire_NEI	MENTION
+per	ADP
+TROPPA	DET
+IMPORETANZA	NOUN
+ALL'	ADP_A
+AMORE	NOUN
+.	PUNCT
+http://t.co/TQZIifsozL	URL
+
+_____623024062034522112_____
+#Cellulari	HASHTAG
+e	CONJ
+smartphone	NOUN
+#10	HASHTAG
+:	PUNCT
+Sony	PROPN
+Xperia	PROPN
+Z3	PROPN
+Plus	PROPN
+E6553	PROPN
+Smartphone	PROPN
+,	PUNCT
+Nero	ADJ
+[	PUNCT
+Italia	PROPN
+]	PUNCT
+http://t.co/q0n8XCWRPa	URL
+http://t.co/gdyfYWSCuU	URL
+
+_____625755351271522305_____
+#governo	HASHTAG
+@matteorenzi	MENTION
+Licenzia	VERB
+5000	NUM
+precari	NOUN
+LSU	PROPN
+#LPU	HASHTAG
+#Calabria	HASHTAG
+dopo	ADP
+20	NUM
+di	ADP
+lavoronero	NOUN
+
+_____641185062239797249_____
+Oggi	ADV
+siamo	VERB
+a	ADP
+#Piacenza	HASHTAG
+alla	ADP_A
+presentazione	NOUN
+di	ADP
+#OroRosso	HASHTAG
+,	PUNCT
+il	DET
+festival	NOUN
+dedicato	VERB
+al	ADP_A
+pomodoro	NOUN
+del	ADP_A
+Nord	PROPN
+,	PUNCT
+dal	ADP_A
+2	NUM
+al	ADP_A
+4	NUM
+ottobre	NOUN
+http://t.co/DaG9vBqKaz	URL
+
+_____582953494514155520_____
+Livorno	PROPN
+,	PUNCT
+Italia	PROPN
+https://t.co/CybPeJWHtr	URL
+
+_____565457367081709568_____
+Alla	ADP_A
+conferenza	NOUN
+stampa	NOUN
+@SMWmilan	MENTION
+2015	NUM
+con	ADP
+@TIM_Official	MENTION
+@bancasella	MENTION
+@mondadori	MENTION
+@ComuneMI	MENTION
+follow	VERB
+#SMWmilan	HASHTAG
+http://t.co/X1VH1VB7ni	URL
+
+_____635227588605136896_____
+E	CONJ
+non	ADV
+fare	VERB
+quel	DET
+errore	NOUN
+
+_____636895704187805696_____
+IL	DET
+MIO	ADJ
+DIARIO	NOUN
+-	PUNCT
+Pagine	NOUN
+d'	ADP
+estate	NOUN
+quando	SCONJ
+ti	PRON
+innamori	VERB
+piano	ADV
+piano	ADV
+dietro	ADP
+uno	DET
+schermo	NOUN
+.	PUNCT
+Grazie	INTJ
+Greta	PROPN
+.	PUNCT
+@gretamenchi	MENTION
+❤	EMO
+http://t.co/kIDNGQ5J5i	URL
+
+_____622891406072397824_____
+@convred	MENTION
+mi	PRON
+hanno	AUX
+detto	VERB
+che	SCONJ
+ci	PRON
+sono	VERB
+anche	ADV
+ragazzi	NOUN
+fighi	ADJ
+😏	EMO
+
+_____583931753359929345_____
+"	PUNCT
+Dalla	ADP_A
+lettera	NOUN
+de	ADP
+#Mengoni	HASHTAG
+ai	ADP_A
+Corinzi	PROPN
+...	PUNCT
+Parola	NOUN
+de	ADP
+#Noemi	HASHTAG
+"	PUNCT
+.	PUNCT
+Er	PROPN
+Vescovo	PROPN
+de	PROPN
+Noto	PROPN
+c'	PRON
+ha	VERB
+l'	DET
+ics	PROPN
+(	PUNCT
+e	CONJ
+sta	VERB
+)	PUNCT
+fatto	VERB
+.	PUNCT
+Daje	INTJ
+http://t.co/4SB4hZuew1	URL
+
+_____640538537641803776_____
+#modenafc1912	HASHTAG
+finisce	VERB
+al	ADP_A
+Braglia	PROPN
+la	DET
+partita	NOUN
+,	PUNCT
+vince	VERB
+il	DET
+Vicenza	PROPN
+.	PUNCT
+Il	DET
+Modena	PROPN
+ha	AUX
+fatto	AUX
+vedere	VERB
+buone	ADJ
+cose	NOUN
+ma	CONJ
+non	ADV
+è	VERB
+...	PUNCT
+http://t.co/WkgD3EczcY	URL
+
+_____590747169612812290_____
+E	CONJ
+niente	PRON
+...	PUNCT
+in	ADP
+piedi	NOUN
+anche	ADV
+questa	DET
+volta	NOUN
+sul	ADP_A
+treno	NOUN
+.	PUNCT
+Ed	CONJ
+io	PRON
+che	PRON
+volevo	AUX
+dormire	VERB
+..	PUNCT
+
+_____564464129180991488_____
+LINK	NOUN
+:	PUNCT
+http://t.co/AT2ZoLBhMh	URL
+|	SYM
+#sessoorale	HASHTAG
+#sessoamatoriale	HASHTAG
+#incontrionline	HASHTAG
+|	SYM
+Donna	NOUN
+Cerca	VERB
+Uomo	NOUN
+Roma	PROPN
+classe	NOUN
+e	CONJ
+dolcezza	NOUN
+
+_____638684853320450048_____
+@stilesgdrlv	MENTION
+conosco	VERB
+tutto	PRON
+di	ADP
+te	PRON
+.	PUNCT
+So	VERB
+anche	ADV
+della	ADP_A
+tua	ADJ
+scopata	NOUN
+due	NUM
+giorni	NOUN
+fa	ADJ
+.	PUNCT
+xx	X
+
+_____619467355501035520_____
+Quando	ADV
+i	DET
+pedali	NOUN
+della	ADP_A
+#bici	HASHTAG
+sono	VERB
+‘	PUNCT
+#smart	HASHTAG
+’	PUNCT
+
+_____552594312249491457_____
+“	PUNCT
+@alloveragainlh	MENTION
+:	PUNCT
+domani	ADV
+io	PRON
+vs	ADP
+il	DET
+mondo	NOUN
+esattamente	ADV
+come	ADP
+osvaldo	PROPN
+vs	ADP
+icardi	PROPN
+,	PUNCT
+vaffanculo	INTJ
+,	PUNCT
+spintoni	NOUN
+e	CONJ
+paroloni	NOUN
+a	ADP
+tutti	PRON
+”	PUNCT
+
+_____639481202999754752_____
+–	PUNCT
+tomlinsik	X
+;	PUNCT
+Profilo	NOUN
+molto	ADV
+carino	ADJ
+in	ADP
+generale	ADJ
+,	PUNCT
+abbinato	VERB
+molto	ADV
+bene	ADV
+.	PUNCT
+
+_____619595802009300992_____
+@TheExtremista	MENTION
+vuoto	ADJ
+.	PUNCT
+Ma	CONJ
+anche	ADV
+questi	PRON
+sono	VERB
+dettagli	NOUN
+;-)	EMO
+@ricpuglisi	MENTION
+
+_____638992328544374784_____
+@carminecapoccia	MENTION
+@newclassicsband	MENTION
+@karlgallo73	MENTION
+@silviaswing1	MENTION
+@FABIOeFARIAN	MENTION
+@faxonthedrum	MENTION
+prima	ADV
+,	PUNCT
+ora	ADV
+e	CONJ
+dopo	ADV
+😍😍😚	EMO
+
+_____570096998260600832_____
+Cellulare	NOUN
+alla	ADP_A
+guida	NOUN
+,	PUNCT
+record	NOUN
+incidenti	NOUN
+2014	NUM
+:	PUNCT
+sms	NOUN
+prima	ADJ
+causa	NOUN
+di	ADP
+scontri	NOUN
+-	PUNCT
+Tgcom24	PROPN
+
+_____623174194734301188_____
+#notizie	HASHTAG
+Piovono	VERB
+dollari	NOUN
+su	ADP
+Blatter	PROPN
+:	PUNCT
+l’ultima	ADJ
+contestazione	NOUN
+all’	ADP_A
+ex	ADJ
+padrone	NOUN
+della	ADP_A
+Fifa	PROPN
+:	PUNCT
+Volano	VERB
+le	DET
+banconote	NOUN
+sul	ADP_A
+...	PUNCT
+http://t.co/dFRek6rMQT	URL
+
+_____614688329750192128_____
+Usa	PROPN
+,	PUNCT
+storica	ADJ
+sentenza	NOUN
+Corte	PROPN
+Suprema	PROPN
+:	PUNCT
+nozze	NOUN
+gay	NOUN
+legali	ADJ
+in	ADP
+tutto	DET
+il	DET
+paese	NOUN
+.	PUNCT
+http://t.co/JoqZWlf9s4	URL
+
+_____638291873325543424_____
+Oggi	ADV
+cominciamo	VERB
+così	ADV
+!	PUNCT
+Con	ADP
+i	DET
+nostri	ADJ
+saluti	NOUN
+per	ADP
+voi	PRON
+di	ADP
+venerdì	NOUN
+scorso	ADJ
+dopo	ADP
+"	PUNCT
+Notre	PROPN
+Dame	PROPN
+de	PROPN
+Paris	PROPN
+"	PUNCT
+.	PUNCT
+http://t.co/uFG2PMUTeo	URL
+
+_____564863235556671488_____
+Alla	ADP_A
+ricerca	NOUN
+del	ADP_A
+niruana	PROPN
+✋😽😂	EMO
+#federaicamaggiorenne	HASHTAG
+#ellapeppa	HASHTAG
+#bellasssei	HASHTAG
+http://t.co/JREaZ3W1Pn	URL
+
+_____566515005215236096_____
+@matteorenzi	MENTION
+nel	ADP_A
+quadrante	NOUN
+della	ADP_A
+ruota	NOUN
+della	ADP_A
+fortuna	NOUN
+ci	PRON
+sarà	VERB
+pure	ADV
+una	DET
+casella	NOUN
+"	PUNCT
+fermo	VERB
+un	DET
+giro	NOUN
+"	PUNCT
+e	CONJ
+"	PUNCT
+perdi	VERB
+tutto	PRON
+"	PUNCT
+,	PUNCT
+i	DET
+lupetti	NOUN
+crescono	VERB
+tu	PRON
+no	ADV
+
+_____569048543211720704_____
+Eravamo	VERB
+4	NUM
+ladri	NOUN
+al	ADP_A
+bar	NOUN
+.....	PUNCT
+quando	SCONJ
+io	PRON
+dicevo	VERB
+che	SCONJ
+alla	ADP_A
+festa	NOUN
+dell'	ADP_A
+Unità	PROPN
+giravano	VERB
+soldi	NOUN
+a	ADP
+nero	NOUN
+...	PUNCT
+il	DET
+segretario	NOUN
+...	PUNCT
+http://t.co/42TFwjHpvZ	URL
+
+_____596686786136559616_____
+@baldiniofficial	MENTION
+perché	SCONJ
+ho	AUX
+sempre	ADV
+pensato	VERB
+che	SCONJ
+fossi	VERB
+bravo	ADJ
+anche	ADV
+senza	ADP
+l'	DET
+aiuto	NOUN
+di	ADP
+fiorello	PROPN
+,	PUNCT
+stavi	VERB
+simpatico	ADJ
+e	CONJ
+facevi	VERB
+ridere	VERB
+
+_____628475736135962624_____
+I	DET
+giovani	ADJ
+agricoltori	NOUN
+italiani	ADJ
+a	ADP
+#Expo2015	HASHTAG
+conquistano	VERB
+tutti	PRON
+con	ADP
+il	DET
+vero	ADJ
+#MadeinItaly	HASHTAG
+http://t.co/0gVrRNN3qZ	URL
+
+_____593319443549171713_____
+#Esteri	HASHTAG
+#News	HASHTAG
+#news	HASHTAG
+Nepal	PROPN
+:	PUNCT
+si	PRON
+organizzano	VERB
+i	DET
+soccorsi	VERB
+internazionali	ADJ
+dopo	ADP
+il	DET
+terremoto	NOUN
+http://t.co/wKHOW23iXn	URL
+http://t.co/UtApP1uyaa	URL
+
+_____597343216644562944_____
+Devo	AUX
+cominciare	VERB
+a	ADP
+guardare	VERB
+il	DET
+diario	NOUN
+di	ADP
+scuola	NOUN
+più	ADV
+spesso	ADV
+..	PUNCT
+
+_____573903920667488256_____
+@victoriasngdr	MENTION
+non	ADV
+li	PRON
+conosco	VERB
+ancora	ADV
+bene	ADV
+,	PUNCT
+per	ADP
+cui	PRON
+non	ADV
+oso	VERB
+lamentarmi	VERB_CLIT
+.	PUNCT
+
+_____550650670911856640_____
+#20ThingsIWantIn2015	HASHTAG
+7	NUM
+)	PUNCT
+vedere	VERB
+tutte	DET
+le	DET
+serie	NOUN
+tv	NOUN
+della	ADP_A
+mia	ADJ
+lista	NOUN
+
+_____574924323900780545_____
+Raccolto	NOUN
+preso	VERB
+:	PUNCT
+1,242	NUM
+di	ADP
+cibo	NOUN
+!	PUNCT
+Hai	AUX
+controllato	VERB
+anche	ADV
+tu	PRON
+il	DET
+tuo	ADJ
+orticello	NOUN
+!	PUNCT
+http://t.co/jewPKInepK	URL
+#ipad	HASHTAG
+,	PUNCT
+#ipadgames	HASHTAG
+,	PUNCT
+#gameinsight	HASHTAG
+
+_____641902142496854016_____
+@Ward1mu5	MENTION
+@Manu_Erre_	MENTION
+@ClaudioPavesi	MENTION
+@Nello_Fiengo	MENTION
+@drunkside41	MENTION
+calcio	NOUN
+è	VERB
+la	DET
+quintessenza	NOUN
+della	ADP_A
+noia	NOUN
+.	PUNCT
+Sport	NOUN
+frenetici	ADJ
+come	ADP
+basket	NOUN
+o	CONJ
+volley	NOUN
+no	ADV
+
+_____628620184270565376_____
+@IgnazioMonni000	MENTION
+@matteosalvinimi	MENTION
+il	DET
+fatto	NOUN
+che	SCONJ
+una	DET
+persona	NOUN
+che	PRON
+vada	VERB
+in	ADP
+discoteca	NOUN
+implichi	VERB
+che	SCONJ
+questa	PRON
+si	PRON
+droghi	VERB
+è	VERB
+una	DET
+fesseria	NOUN
+...	PUNCT
+
+_____600207180818677760_____
+Te	NOUN
+caldo	ADJ
+anche	ADV
+d'	ADP
+estate	NOUN
+,	PUNCT
+Ma	CONJ
+sono	VERB
+Pazzi	ADJ
+?	PUNCT
+-	PUNCT
+Te	NOUN
+caldo	ADJ
+anche	ADV
+d'	ADP
+estate	NOUN
+,	PUNCT
+Ma	CONJ
+sono	VERB
+Pazzi	ADJ
+?	PUNCT
+…	PUNCT
+Capita	VERB
+spesso	ADV
+di	ADP
+vedere	VERB
+,	PUNCT
+...	PUNCT
+http://t.co/iqbZDA5fnB	URL
+
+_____638389005533454337_____
+Ultime	ADJ
+ore	NOUN
+per	ADP
+usufruire	VERB
+della	ADP_A
+promo	NOUN
+estiva	ADJ
+!	PUNCT
+-	PUNCT
+15%	NUM
+su	ADP
+tutti	DET
+i	DET
+prodotti	NOUN
+in	ADP
+catalogo	NOUN
+!	PUNCT
+http://t.co/dVEblGzHoQ	URL
+
+_____588070313084194816_____
+@iNebux	MENTION
+taci	VERB
+va	INTJ
+…	PUNCT
+quasi	ADV
+quasi	ADV
+vado	VERB
+a	ADP
+fare	VERB
+un	DET
+giretto	NOUN
+dal	ADP_A
+mio	ADJ
+amicone	NOUN
+interiorizzatore	NOUN
+,	PUNCT
+chissà	ADV
+come	ADV
+sta	VERB
+?!	PUNCT
+
+_____577524242138423297_____
+Naturalmente	ADV
+Life	PROPN
+con	ADP
+tutti	DET
+suoi	ADJ
+prodotti	NOUN
+dall'	ADP_A
+efficacia	NOUN
+garantita	VERB
+,	PUNCT
+vi	PRON
+aspetta	VERB
+il	DET
+giorno	NOUN
+20	NUM
+-	PUNCT
+21	NUM
+-	PUNCT
+22	NUM
+Marzo	NOUN
+9:00	NUM
+-	PUNCT
+...	PUNCT
+http://t.co/8NESv7dd3e	URL
+
+_____587338186940149760_____
+@porrelloenzo	MENTION
+Grazie	INTJ
+mille	NUM
+signor	NOUN
+Vincenzo	PROPN
+,	PUNCT
+che	PRON
+belle	ADJ
+foto	NOUN
+,	PUNCT
+saluti	INTJ
+,	PUNCT
+Non	ADV
+posso	AUX
+rispondere	VERB
+per	ADP
+DM	PROPN
+,	PUNCT
+perché	ADV
+non	ADV
+mi	PRON
+segui	VERB
+:(	EMO
+
+_____564733846844108800_____
+@nduelle	MENTION
+MYGENOO	PROPN
+IL	DET
+PRIMO	ADJ
+SOCIAL	NOUN
+IN	ADP
+ITALIA	PROPN
+DOVE	PRON
+PUBBLICARE	VERB
+E	CONJ
+CONDIVIDERE	VERB
+I	DET
+TUOI	ADJ
+ANNUNCI	NOUN
+GRATUITAMENTE	ADV
+http://t.co/3Wt5Jnkz20	URL
+
+_____561668547777421312_____
+@WebTiniLodoIT	MENTION
+@lodocomello	MENTION
+alla	ADP_A
+16:00	NUM
+tu	PRON
+?	PUNCT
+
+_____619215260717850624_____
+La	DET
+distanza	NOUN
+e'	VERB
+il	DET
+vero	ADJ
+nemico	NOUN
+degli	ADP_A
+innamorati	NOUN
+,	PUNCT
+ma	CONJ
+è	VERB
+anche	ADV
+la	DET
+cosa	NOUN
+che	PRON
+più	ADV
+delle	ADP_A
+altre	PRON
+ci	PRON
+fa	AUX
+capire	VERB
+quanto	PRON
+amiamo	VERB
+http://t.co/jbPxV135wz	URL
+
+_____583922820775809024_____
+Era	VERB
+per	ADP
+i	DET
+tuoi	ADJ
+occhi	NOUN
+all'	ADP_A
+ufficio	NOUN
+degli	ADP_A
+oggetti	NOUN
+smarriti	VERB
+,	PUNCT
+fare	VERB
+l'	DET
+amore	NOUN
+nei	ADP_A
+container	NOUN
+e	CONJ
+non	ADV
+poterti	VERB_CLIT
+raggiungere	VERB
+perchè	SCONJ
+ci	PRON
+sono	VERB
+
+_____569074446985773056_____
+@hygbor	MENTION
+@gnoma23	MENTION
+@trinacrianapoli	MENTION
+@in_consapevole	MENTION
+Ci	PRON
+sono	VERB
+persone	NOUN
+che	PRON
+non	ADV
+sanno	VERB
+amare	VERB
+e	CONJ
+vale	VERB
+anche	ADV
+per	ADP
+gli	DET
+etero	NOUN
+!	PUNCT
+
+_____596272710675779585_____
+Tra	ADP
+due	NUM
+giorni	NOUN
+37	NUM
+anni	NOUN
+senza	ADP
+Peppino	PROPN
+https://t.co/fORKolBNOP	URL
+via	ADP
+@ChangeItalia	MENTION
+
+_____553988707997724672_____
+@lleshisimona	MENTION
+vedrai	VERB
+l'	DET
+emblema	NOUN
+della	ADP_A
+#palestra	HASHTAG
+
+_____570218556194983936_____
+Toni	PROPN
+,	PUNCT
+Cris	PROPN
+e	CONJ
+il	DET
+regista	NOUN
+-	PUNCT
+Scarica	VERB
+l'	DET
+App	NOUN
+e	CONJ
+Vinci	VERB
+il	DET
+Set	NOUN
+della	ADP_A
+3a	ADJ
+Serie	NOUN
+!	PUNCT
+@BraccialettiRos	MENTION
+http://t.co/BLVpo0i2Yj	URL
+
+_____642770894172094465_____
+La	DET
+bellezza	NOUN
+della	ADP_A
+mie	ADJ
+Steve	PROPN
+Madden	PROPN
+Fringly	PROPN
+💗	EMO
+http://t.co/YZPob9SUws	URL
+
+_____622541576682774528_____
+@clarialonso_	MENTION
+que	PRON
+buenooo	ADJ
+italia	PROPN
+te	PRON
+ama	VERB
+e	CONJ
+siamo	VERB
+felici	ADJ
+che	SCONJ
+ti	PRON
+piace	VERB
+l'	DET
+italia	PROPN
+♥♥♡	EMO
+te	PRON
+quierooo	VERB
+
+_____580249934202609664_____
+@whorfole	MENTION
+quando	SCONJ
+posso	VERB
+,	PUNCT
+grazie	INTJ
+:3	EMO
+
+_____620344943475863552_____
+"	PUNCT
+Su	ADP
+una	DET
+scala	NOUN
+da	ADP
+1	NUM
+a	ADP
+10	NUM
+quanto	PRON
+sei	NUM
+pigro	ADJ
+?	PUNCT
+"	PUNCT
+"	PUNCT
+Dipende	VERB
+...	PUNCT
+è	VERB
+una	DET
+scala	NOUN
+mobile	ADJ
+?	PUNCT
+"	PUNCT
+
+_____619666945638551552_____
+Ordini	VERB
+solo	ADV
+quello	PRON
+che	PRON
+ti	PRON
+serve	VERB
+e	CONJ
+quando	SCONJ
+preferisci	VERB
+,	PUNCT
+senza	ADP
+scadenze	NOUN
+e	CONJ
+senza	ADP
+dover	AUX
+fare	VERB
+scorte	NOUN
+di	ADP
+magazzino	NOUN
+!	PUNCT
+...	PUNCT
+http://t.co/ft4iQ5ZwN5	URL
+
+_____565632398944391171_____
+Va	VERB
+bene	ADV
+,	PUNCT
+va	VERB
+bene	ADV
+,	PUNCT
+guardate	VERB
+Sanremo	PROPN
+...	PUNCT
+Tanto	ADV
+fra	ADP
+qualche	DET
+giorno	NOUN
+esce	VERB
+il	DET
+primo	ADJ
+video	NOUN
+estratto	VERB
+dal	ADP_A
+live	NOUN
+dei	ADP_A
+Just	PROPN
+for	PROPN
+Fun	PROPN
+:D	EMO
+—	SYM
+su	ADV
+di	ADP
+giri	NOUN
+
+_____638684935784673281_____
+Milano	PROPN
+:	PUNCT
+prima	ADV
+e	CONJ
+dopo	ADV
+il	DET
+passaggio	NOUN
+di	ADP
+Pisapippa	PROPN
+#http://www.beppegrillo.it/la_cosa/2015/09/01/milano-prima-e-dopo-il-passaggio-di-pisapippa/	URL
+
+_____581363159526699008_____
+Oggi	ADV
+i	DET
+partecipanti	NOUN
+da	ADP
+tutta	DET
+Italia	PROPN
+al	ADP_A
+#mediashow2015	HASHTAG
+(	PUNCT
+alunni	NOUN
+e	CONJ
+docenti	NOUN
+)	PUNCT
+sono	VERB
+in	ADP
+visita	NOUN
+a	ADP
+@Matera2019	MENTION
+:)	EMO
+speriamo	VERB
+ci	PRON
+mandino	VERB
+tante	DET
+foto	NOUN
+#fb	HASHTAG
+
+_____587233555190652928_____
+@car2goItalia	MENTION
+bene	ADV
+grazie	INTJ
+.	PUNCT
+Ancora	ADV
+,	PUNCT
+io	PRON
+uso	VERB
+spesso	ADV
+Lumia	PROPN
+dove	ADV
+ci	PRON
+sono	VERB
+solo	ADV
+app	NOUN
+non	ADV
+vostre	ADJ
+...	PUNCT
+Posso	AUX
+usarle	VERB_CLIT
+serenamente	ADV
+per	ADP
+aprire	VERB
+le	DET
+auto	NOUN
+?	PUNCT
+
+_____614321846264197120_____
+@Shyerrie	MENTION
+dopo	SCONJ
+aver	AUX
+elencato	VERB
+tutti	DET
+i	DET
+pregi	NOUN
+di	ADP
+the	PROPN
+flash	PROPN
+per	ADP
+due	NUM
+giorni	NOUN
+ahahahahah	INTJ
+
+_____604748990568103937_____
+@MarroneEmma	MENTION
+amore	NOUN
+miooo	ADJ
+quanto	ADV
+sei	VERB
+forte	ADJ
+!	PUNCT
+❤️	EMO
+mi	PRON
+hai	AUX
+fatto	AUX
+ridere	VERB
+tantissimo	ADV
+!	PUNCT
+Sei	VERB
+la	DET
+migliore	ADJ
+giuro	VERB
+!	PUNCT
+Ti	PRON
+amo	VERB
+cu	ADP
+tuttu	DET
+lu	DET
+core	NOUN
+!	PUNCT
+✨🙈💕	EMO
+
+_____572479204639543296_____
+“	PUNCT
+@_Lira__	MENTION
+:	PUNCT
+@amandoloueh	MENTION
+quando	SCONJ
+sono	VERB
+nervosa	ADJ
+,	PUNCT
+io	PRON
+solitamente	ADV
+metto	VERB
+le	DET
+cuffie	NOUN
+e	CONJ
+lascio	VERB
+scivolare	VERB
+tutto	PRON
+...	PUNCT
+”	PUNCT
+vorrei	AUX
+riuscirci	VERB_CLIT
+
+_____645372190645481472_____
+Anche	ADV
+prodotti	NOUN
+alimentari	ADJ
+tipici	ADJ
+pugliesi	ADJ
+in	ADP
+vendita	NOUN
+su	ADP
+http://t.co/nmLaFmYXAz	URL
+Tutto	PRON
+per	ADP
+tutti	PRON
+dappertutto	ADV
+...	PUNCT
+https://t.co/5PeG0ImWwj	URL
+
+_____604250752664604672_____
+@PatriziaRametta	MENTION
+intensa	ADJ
+bellezza	NOUN
+.	PUNCT
+Grazie	INTJ
+!	PUNCT
+🌹	EMO
+
+_____634442035458646016_____
+Il	DET
+girino	NOUN
+scettico	ADJ
+in	ADP
+amore	NOUN
+#girini	HASHTAG
+#tadpole	HASHTAG
+#Trentino	HASHTAG
+#Dolomiti	HASHTAG
+#camminare	HASHTAG
+#hike	HASHTAG
+#mountains	HASHTAG
+…	PUNCT
+https://t.co/C1adXTRc6D	URL
+
+_____590774168750260224_____
+Buongiorno	INTJ
+a	ADP
+tutti	PRON
+,	PUNCT
+si	PRON
+inizia	VERB
+la	DET
+giornata	NOUN
+.	PUNCT
+Come	ADV
+va	VERB
+?	PUNCT
+
+_____622552172622966784_____
+e	CONJ
+in	ADP
+una	DET
+cosa	NOUN
+ci	PRON
+somigliano	VERB
+:	PUNCT
+non	ADV
+sappiamo	VERB
+dire	VERB
+di	ADP
+no	ADV
+alle	ADP_A
+persone	NOUN
+,	PUNCT
+potremmo	AUX
+fare	VERB
+di	ADP
+tutto	PRON
+pur	ADV
+di	ADP
+accontentarle	VERB_CLIT
+e	CONJ
+non	ADV
+deluderle	VERB_CLIT
+
+_____624190512996712449_____
+@angelhairhes	MENTION
+tutto	DET
+quello	PRON
+che	PRON
+desidero	VERB
+è	VERB
+1	NUM
+/	SYM
+5	NUM
+❤️	EMO
+tutto	DET
+quello	PRON
+che	PRON
+chiedo	VERB
+è	VERB
+parlare	VERB
+un	DET
+po	NOUN
+anche	ADV
+con	ADP
+te	PRON
+
+_____629380650089345030_____
+@stylesvhug	MENTION
+nostro	DET
+idolo	NOUN
+vero	ADJ
+@shadowarry	MENTION
+?	PUNCT
+MADÒ	INTJ
+ANCORA	ADV
+RIDO	VERB
+HAHAHAHA	INTJ
+
+_____625675852664152064_____
+Credo	VERB
+in	ADP
+un	DET
+Padre	PROPN
+superiore	ADJ
+Credo	VERB
+nel	ADP_A
+Bene	PROPN
+e	CONJ
+nel	ADP_A
+Male	PROPN
+Credo	VERB
+alle	ADP_A
+prime	ADJ
+sensazioniE	NOUN
+nn	ADV
+temo	VERB
+nulla	PRON
+E	CONJ
+nessuno	PRON
+Ricorda	VERB
+.	PUNCT
+http://t.co/uHeGlOu5bL	URL
+
+_____567419117712707585_____
+@maretegge	MENTION
+I	DET
+delinquenti	NOUN
+mandarli	VERB_CLIT
+a	ADP
+casa	NOUN
+subito	ADV
+#Italia	HASHTAG
+fuori	ADP
+da	ADP
+legge	NOUN
+dure	ADJ
+vive	VERB
+in	ADP
+#ANARCHIA	HASHTAG
+totale	ADJ
+
+_____648595040999239680_____
+Non	ADV
+vedi	VERB
+l'	DET
+ora	NOUN
+che	PRON
+venga	VERB
+qui	ADV
+,	PUNCT
+almeno	ADV
+lo	PRON
+sentirò	VERB
+più	ADV
+spesso	ADV
+e	CONJ
+potrò	AUX
+finalmente	ADV
+stare	VERB
+con	ADP
+lui	PRON
+,	PUNCT
+alla	ADP_A
+faccia	NOUN
+di	ADP
+chi	PRON
+mi	PRON
+ha	AUX
+friendzonato	VERB
+.	PUNCT
+
+_____561901881220694017_____
+#qcc	HASHTAG
+Se	SCONJ
+i	DET
+mimmo	PROPN
+boys	PROPN
+alzavano	VERB
+la	DET
+barbie	PROPN
+umana	ADJ
+come	SCONJ
+hanno	AUX
+fatto	VERB
+con	ADP
+katia	PROPN
+le	PRON
+si	PRON
+staccavano	VERB
+le	DET
+braccia	NOUN
+
+_____578266879686492160_____
+@KyriakosJabo	MENTION
+confermo	VERB
+!	PUNCT
+Tutti	PRON
+a	ADP
+dirmi	VERB_CLIT
+"	PUNCT
+ti	PRON
+voglio	VERB
+bene	ADV
+"	PUNCT
+e	CONJ
+nessuno	PRON
+che	PRON
+me...	X
+Vabbè	INTJ
+...	PUNCT
+😂😂😂	EMO
+@PiccoloPegaso	MENTION
+@filecc	MENTION
+
+_____574067228309610496_____
+Presenti	VERB
+239	NUM
+nuove	ADJ
+#offerte	HASHTAG
+di	ADP
+#lavoro	HASHTAG
+per	ADP
+COMUNE	PROPN
+#MILANO	HASHTAG
+http://t.co/o8HHNR6GTm	URL
+
+_____567402379457617920_____
+"	PUNCT
+@boobear99_	MENTION
+🍃🌸	EMO
+cita	VERB
+e	CONJ
+rispondi	VERB
+della	ADP_A
+Cher	PROPN
+🌸🍃	EMO
+Quale	ADV
+youtubers	NOUN
+segui	VERB
+?	PUNCT
+"	PUNCT
+Cleo	PROPN
+,	PUNCT
+jalissa	PROPN
+,	PUNCT
+sofia	PROPN
+,	PUNCT
+Muriel	PROPN
+,	PUNCT
+de	PROPN
+Carli	PROPN
+e	CONJ
+favij	PROPN
+
+_____588609732283269121_____
+Ho	AUX
+aggiunto	VERB
+un	DET
+video	NOUN
+a	ADP
+una	DET
+playlist	NOUN
+di	ADP
+@YouTube	MENTION
+:	PUNCT
+http://t.co/BCVnXruvKu	URL
+ROMA	PROPN
+PRESENTAZIONE	NOUN
+LIBRO	NOUN
+SVIMEZ	PROPN
+SULL’	ADP_A
+ECONOMIA	NOUN
+DEL	ADP_A
+
+_____568341568182202368_____
+@Oblivayn	MENTION
+@ljamseyes_	MENTION
+ho	VERB
+anche	ADV
+quelle	PRON
+di	ADP
+Logan	PROPN
+!!	PUNCT
+
+_____566931070437040128_____
+@mandrake1371	MENTION
+mi	PRON
+manca	VERB
+tutto	PRON
+;	PUNCT
+vino	NOUN
+cannella	NOUN
+chiodi	NOUN
+di	ADP
+garofano	NOUN
+...	PUNCT
+
+_____589093150028795905_____
+MATURA	ADJ
+VOGLIOSA	ADJ
+ASCOLTA	VERB
+E	CONJ
+GODI	VERB
+(	PUNCT
+tutta	DET
+italia	PROPN
+)	PUNCT
+http://t.co/73M0wzbfr2	URL
+
+_____571339176207106048_____
+La	DET
+mia	ADJ
+amika	NOUN
+fa	VERB
+il	DET
+compleanno	NOUN
+quindi	ADV
+fatele	VERB_CLIT
+tutti	DET
+gli	DET
+auguri	NOUN
+!	PUNCT
+❤❤❤	EMO
+@xinLouis_arms	MENTION
+
+_____626341292642054144_____
+@Benji_Mascolo	MENTION
+Hey	INTJ
+amore	NOUN
+mio	ADJ
+❤	EMO
+Come	ADV
+stai	VERB
+?	PUNCT
+Spero	VERB
+bene	ADV
+!	PUNCT
+Ho	VERB
+tanto	ADV
+bisogno	NOUN
+del	ADP_A
+tuo	ADJ
+follow	NOUN
+,	PUNCT
+mi	PRON
+potresti	AUX
+seguire	VERB
+?	PUNCT
+Ti	PRON
+amo	VERB
+tanto	ADV
+budí	PROPN
+💟	EMO
+x	SYM
+1.684	NUM
+
+_____573624011357360128_____
+#leiene	HASHTAG
+ma	CONJ
+che	PRON
+brutta	ADJ
+figura	NOUN
+anche	ADV
+i	DET
+carabinieri	NOUN
+
+_____601799721439666177_____
+@CarloCarli9	MENTION
+@forza_italia	MENTION
+la	DET
+legge	NOUN
+,	PUNCT
+condivisa	VERB
+da	ADP
+tutti	PRON
+,	PUNCT
+per	ADP
+familiari	NOUN
+persone	NOUN
+fucilate	VERB
+e	CONJ
+decimate	VERB
+è	VERB
+un	DET
+riconoscimento	NOUN
+importante	ADJ
+ed	CONJ
+atteso	VERB
+
+_____623938402174541824_____
+Se	SCONJ
+Paolo	PROPN
+non	ADV
+è	VERB
+gay	ADJ
+io	PRON
+divento	VERB
+Miss	PROPN
+Italia	PROPN
+come	ADP
+minimo	NOUN
+!	PUNCT
+#LuckyLadies	HASHTAG
+
+_____595210412947349504_____
+Vogliono	AUX
+sempre	ADV
+fare	VERB
+di	ADP
+testa	NOUN
+loro	ADJ
+,	PUNCT
+e	CONJ
+la	DET
+maggior	ADJ
+parte	NOUN
+non	ADV
+sanno	VERB
+neanche	ADV
+per	ADP
+cosa	PRON
+si	PRON
+muovono	VERB
+realmente	ADV
+
+_____604917747642998784_____
+Un	DET
+bel	ADJ
+Selfie	NOUN
+prima	ADP
+della	ADP_A
+partita	NOUN
+con	ADP
+Lorenzo	PROPN
+dimenano	VERB
+
+_____566350102160498689_____
+@_iaci	MENTION
+ecco	INTJ
+succede	VERB
+anche	ADV
+a	ADP
+me	PRON
+!!!	PUNCT
+
+_____553998057734701056_____
+Che	DET
+fine	NOUN
+ha	AUX
+fatto	VERB
+la	DET
+#Pinotti	HASHTAG
+il	DET
+#ministrodegliesteri	HASHTAG
+della	ADP_A
+#comunitaeuropea	HASHTAG
+?	PUNCT
+Non	ADV
+dovrebbe	AUX
+parlare	VERB
+lei	PRON
+invece	ADV
+che	ADP
+#Alfano	HASHTAG
+?	PUNCT
+by	ADP
+FiorenzaT	PROPN
+...	PUNCT
+
+_____614845333542207488_____
+Vi	PRON
+consiglio	VERB
+di	ADP
+leggere	VERB
+questo	DET
+articolo	NOUN
+.	PUNCT
+http://t.co/YieAz3ehKu	URL
+
+_____602874974135783425_____
+@nonleggerlo	MENTION
+uno	DET
+svizzero	NOUN
+che	PRON
+ha	AUX
+trovato	VERB
+l'	DET
+America	PROPN
+...	PUNCT
+in	ADP
+Italia	PROPN
+
+_____565310352125329410_____
+@costin_mila	MENTION
+ho	AUX
+fatto	VERB
+la	DET
+cattiva	ADJ
+!!	PUNCT
+
+_____585122114010816512_____
+Amore	NOUN
+mio	ADJ
+http://t.co/KSazRgFaFc	URL
+
+_____581026606266773504_____
+Programmatore	NOUN
+Software	NOUN
+,	PUNCT
+San	PROPN
+Giorgio	PROPN
+di	PROPN
+Mantova	PROPN
+,	PUNCT
+Mantov	PROPN
+-	PUNCT
+http://t.co/bkkMg6cEqH	URL
+
+_____597131405408239617_____
+Anche	ADV
+lo	DET
+SFIZIETTO	PROPN
+PIZZERIA	PROPN
+ha	AUX
+scelto	VERB
+NEON	PROPN
+ALFA	PROPN
+http://t.co/uwD6gVWeTH	URL
+
+_____578923945652539392_____
+su	ADP
+arredotendenza.it	URL
+le	DET
+ultime	ADJ
+tendenze	NOUN
+in	ADP
+fatto	NOUN
+di	ADP
+#design	HASHTAG
+http://t.co/zA3FTdlNLH	URL
+
+_____615784427071762432_____
+@LoScimmietto	MENTION
+@Agenzia_Ansa	MENTION
+tu	PRON
+sei	VERB
+appassionato	ADJ
+di	ADP
+calcio	NOUN
+visto	VERB
+che	SCONJ
+scrivi	VERB
+di	ADP
+quello	PRON
+è	CONJ
+nn	ADV
+ti	PRON
+critico	VERB
+anche	ADV
+se	ADV
+per	ADP
+me	PRON
+è	VERB
+una	DET
+cagata	NOUN
+.	PUNCT
+Rispe	PROPN
+
+_____640566126087380992_____
+Raga	NOUN
+stasera	ADV
+tutti	PRON
+in	ADP
+piazzaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa	NOUN
+
+_____572839290755006464_____
+@eightveen	MENTION
+esattamente	ADV
+!	PUNCT
+Anche	ADV
+se	SCONJ
+nella	ADP_A
+mia	ADJ
+mente	NOUN
+ho	AUX
+inventato	VERB
+il	DET
+finale	NOUN
+ahahah	INTJ
+
+_____574585331300765697_____
+@GiancarlGarozzo	MENTION
+spero	VERB
+prenda	VERB
+provvedimenti	NOUN
+circa	ADV
+le	DET
+ingerenze	NOUN
+mafiose	ADJ
+sulla	ADP_A
+gestione	NOUN
+della	ADP_A
+res	NOUN
+pubblica	ADJ
+siracusana	ADJ
+DENUNCIATE	VERB
+IN	ADP
+DIRETTA	NOUN
+
+_____564347294615494657_____
+@fidelaalvita	MENTION
+fllbck	X
+della	ADP_A
+
+_____576740935238828032_____
+@alelapazza1	MENTION
+tipo	ADV
+per	ADP
+i	DET
+post	NOUN
+rebloggati	VERB
+è	AUX
+andata	VERB
+bene	ADV
+(	PUNCT
+anche	ADV
+se	SCONJ
+devo	AUX
+finire	VERB
+)	PUNCT
+,	PUNCT
+ma	CONJ
+per	ADP
+le	DET
+mie	ADJ
+gifs	NOUN
+devo	AUX
+rinominare	VERB
+post	NOUN
+per	ADP
+post	NOUN
+ahahahah	INTJ
+
+_____603151663927529472_____
+A	ADP
+tutti	DET
+i	DET
+miei	ADJ
+cari	ADJ
+followers	NOUN
+....	PUNCT
+http://t.co/ZeTy19swZp	URL
+
+_____604679615945318400_____
+Lignano	PROPN
+Sabbiadoro	PROPN
+(	PUNCT
+Udine	PROPN
+)	PUNCT
+.	PUNCT
+Contrastare	VERB
+l'	DET
+abusivismo	NOUN
+commerciale	ADJ
+e	CONJ
+la	DET
+contraffazione	NOUN
+.	PUNCT
+Con	ADP
+questo	DET
+intento	NOUN
+,	PUNCT
+anche	ADV
+...	PUNCT
+http://t.co/iHUKrwPzwl	URL
+
+_____619307835747385344_____
+1	NUM
+Doppia	NOUN
+in	ADP
+affitto	NOUN
+,	PUNCT
+a	ADP
+ragazzi	NOUN
+e	CONJ
+ragazze	NOUN
+[	PUNCT
+Flickr	PROPN
+]	PUNCT
+-	PUNCT
+alexeidos	PROPN
+posted	VERB
+a	DET
+photo	NOUN
+:	PUNCT
+via	ADP
+Annunci	PROPN
+Gromia	PROPN
+per	ADP
+Milano	PROPN
+ift.tt...	X
+http://t.co/gC7M9btnoc	URL
+
+_____577611679409827840_____
+#AndreaColletti	HASHTAG
+#M5S	HASHTAG
+:	PUNCT
+#Riforma	HASHTAG
+della	ADP_A
+#prescrizione	HASHTAG
+https://t.co/iRMQ3x5rwf	URL
+#Incalza	HASHTAG
+#TuttiInGalera	HASHTAG
+#ersistema	HASHTAG
+#terradeifuochi	HASHTAG
+
+_____629937135563501568_____
+@Umberto_Ba	MENTION
+tutto	PRON
+e	CONJ
+due	NUM
+
+_____579688196205838336_____
+Non	ADV
+può	AUX
+succedere	VERB
+nulla	PRON
+che	SCONJ
+subito	ADV
+"	PUNCT
+si	PRON
+stnn	VERB
+sfscn	X
+!!	PUNCT
+ommaigoddi	INTJ
+"	PUNCT
+,	PUNCT
+mi	PRON
+fate	AUX
+ridere	VERB
+.	PUNCT
+Non	ADV
+possono	AUX
+avere	VERB
+dei	DET
+problemi	NOUN
+anche	ADV
+loro	PRON
+?	PUNCT
+
+_____628975986281971713_____
+Dal	ADP_A
+prossimo	ADJ
+anno	NOUN
+Audi	PROPN
+non	ADV
+sarà	VERB
+più	ADV
+uno	DET
+sponsor	NOUN
+del	ADP_A
+Milan	PROPN
+il	DET
+testimone	NOUN
+passerà	VERB
+alla	ADP_A
+Piaggio	PROPN
+...	PUNCT
+e	CONJ
+via	ADV
+con	ADP
+gli	DET
+Apetti	PROPN
+!!	PUNCT
+
+_____618786255803957250_____
+La	DET
+Mafia	PROPN
+ufficialmente	ADV
+confermata	VERB
+nel	ADP_A
+comune	NOUN
+di	ADP
+Roma	PROPN
+...	PUNCT
+http://t.co/cRzkfJcjBn	URL
+
+_____550736247988453377_____
+Robo-Advisor	PROPN
+:	PUNCT
+il	DET
+Cavallo	PROPN
+di	PROPN
+Troia	PROPN
+della	ADP_A
+finanza	NOUN
+telematica	ADJ
+http://t.co/K1rhCby28N	URL
+
+_____619785384449474560_____
+.	PUNCT
+@matteograndi	MENTION
+@giancalex	MENTION
+Diciamo	VERB
+che	SCONJ
+con	ADP
+moneta	NOUN
+nostra	ADJ
+il	DET
+debito	NOUN
+non	ADV
+sarebbe	VERB
+un	DET
+problema	NOUN
+(	PUNCT
+grazie	INTJ
+Prodi	PROPN
+)	PUNCT
+.	PUNCT
+
+_____596792144876195840_____
+#WeAreHereForDecarli	HASHTAG
+noi	PRON
+ci	PRON
+siamo	VERB
+sempre	ADV
+.	PUNCT
+Grazie	INTJ
+per	ADP
+tutti	DET
+i	DET
+sorrisi	NOUN
+,	PUNCT
+ti	PRON
+amiamo	VERB
+castorino	NOUN
+del	ADP_A
+nostro	ADJ
+cuore	NOUN
+.	PUNCT
+x23	X
+
+_____640959883257450496_____
+cazzo	INTJ
+sono	VERB
+tutti	DET
+sti	ADJ
+tweet	NOUN
+in	ADP
+tl	NOUN
+di	ADP
+"	PUNCT
+innocente	ADJ
+"	PUNCT
+"	PUNCT
+colpevole	ADJ
+"	PUNCT
+ao	INTJ
+
+_____633683728674496513_____
+@crystalgdrs_	MENTION
+grazie	INTJ
+cristallo	PROPN
+<333	EMO
+
+_____615443853563305984_____
+Ieri	ADV
+a	ADP
+Sempione	PROPN
+Vlada	PROPN
+mi	PRON
+ha	AUX
+gridato	VERB
+"	PUNCT
+STOP	NOUN
+!!!!	PUNCT
+"	PUNCT
+e	CONJ
+io	PRON
+come	ADP
+una	DET
+cogliona	NOUN
+ho	AUX
+iniziato	VERB
+a	ADP
+cantare	VERB
+"	PUNCT
+Freeze	PROPN
+"	PUNCT
+dei	ADP_A
+Block	PROPN
+B	PROPN
+.	PUNCT
+Kpop	PROPN
+cosa	PRON
+mi	PRON
+hai	AUX
+fatto	VERB
+.	PUNCT
+
+_____593072690866491393_____
+Giornata	PROPN
+mondiale	PROPN
+vittime	PROPN
+dell’	PROPN
+amianto	PROPN
+.	PUNCT
+In	ADP
+Italia	PROPN
+ancora	ADV
+4mila	NUM
+morti	VERB
+l’	DET
+anno	NOUN
+:	PUNCT
+La	DET
+decima	ADJ
+Giornata	PROPN
+mondiale	ADJ
+...	PUNCT
+http://t.co/CrwTIdmM1C	URL
+
+_____566748151483469825_____
+Potete	VERB
+anche	ADV
+non	ADV
+votare	VERB
+non	ADV
+contano	VERB
+nulla	PRON
+i	DET
+vostri	ADJ
+voti	NOUN
+.	PUNCT
+Pagate	VERB
+solo	ADV
+lo	DET
+stipendio	NOUN
+all'	ADP_A
+orchestra	NOUN
+#sanremo15	HASHTAG
+
+_____594196766184087554_____
+#Vergogna	HASHTAG
+#SiExpo	HASHTAG
+https://t.co/Uh8ROEKXIj	URL
+
+_____591239298957053952_____
+@AntonacciBiagio	MENTION
+grazie	ADP
+a	ADP
+te	PRON
+Biagio	PROPN
+!!!!!!!!	PUNCT
+
+_____621951828469620736_____
+Ho	AUX
+aggiunto	VERB
+un	DET
+video	NOUN
+a	ADP
+una	DET
+playlist	NOUN
+di	ADP
+@YouTube	MENTION
+:	PUNCT
+http://t.co/jEn63ffUcv	URL
+IL	PROPN
+FATTO	PROPN
+DEL	ADP_A
+17	NUM
+LUGLIO	NOUN
+
+_____591839062555668481_____
+Google	PROPN
+ora	ADV
+fa	VERB
+concorrenza	NOUN
+anche	ADV
+alle	ADP_A
+compagnie	NOUN
+telefoniche	ADJ
+,	PUNCT
+col	ADP_A
+progetto	NOUN
+Google	PROPN
+“	PUNCT
+Fi	PROPN
+”	PUNCT
+:	PUNCT
+http://t.co/b2Ly0P2jtS	URL
+http://t.co/323qyReAUN	URL
+
+_____633728125935984640_____
+Anche	ADV
+Jovetic	PROPN
+saluta	VERB
+Mateo	PROPN
+.	PUNCT
+Anche	ADV
+a	ADP
+Shaq	PROPN
+erano	VERB
+molto	ADV2
+legati	ADJ
+😅😅	EMO
+https://t.co/nu23cTlYBK	URL
+
+_____564796945563398145_____
+#BrigaAMICI	HASHTAG
+che	PRON
+difendeva	VERB
+Gabriele	PROPN
+,	PUNCT
+è	VERB
+l'	DET
+amore	NOUN
+.	PUNCT
+❤	EMO
+😍	EMO
+
+_____582632888350408704_____
+@fearofopinions	MENTION
+@Skyvlar	MENTION
+Ma	CONJ
+grazie	INTJ
+aww	X
+😍	EMO
+
+_____571292942209581056_____
+Settimana	PROPN
+della	PROPN
+moda	PROPN
+femminile	PROPN
+a	ADP
+Milano	PROPN
+....	PUNCT
+orde	NOUN
+di	ADP
+ormoni	NOUN
+impazziti	VERB
+in	ADP
+giro	NOUN
+per	ADP
+la	DET
+città	NOUN
+.	PUNCT
+#robidemat	HASHTAG
+
+_____591492050387800065_____
+@iccio1963	MENTION
+Che	DET
+bel	ADJ
+buongiorno	NOUN
+!!!!	PUNCT
+Grazie	INTJ
+e	CONJ
+baci	NOUN
+.....	PUNCT
+buona	ADJ
+giornata	NOUN
+
+_____605333198726414336_____
+Esattamente	ADV
+quel	PRON
+che	PRON
+penso	VERB
+io	PRON
+.	PUNCT
+Grazie	ADP
+al	ADP_A
+@napolista	MENTION
+https://t.co/x4QBnuDUpr	URL
+
+_____595310840452149249_____
+@Minaring_AOA_	MENTION
+lo	PRON
+spero	VERB
+anche	ADV
+io	PRON
+!!	PUNCT
+Ho	VERB
+famissima	NOUN
+*	STYM
+ridacchia	VERB
+*	SYM
+
+_____602769917897760768_____
+Scopriamo	VERB
+a	ADP
+giugno	NOUN
+il	DET
+paradiso	PROPN
+della	ADP_A
+Regina	PROPN
+Sibilla	PROPN
+!...	PUNCT
+http://t.co/vdv5E85hFr	URL
+
+_____589519570051977217_____
+Renzi	PROPN
+a	ADP
+Pompei	PROPN
+,	PUNCT
+i	DET
+video	NOUN
+delle	ADP_A
+contestazioni	NOUN
+-	PUNCT
+di	ADP
+Simona	PROPN
+D'	PROPN
+Albora	PROPN
+Non	ADV
+sono	AUX
+mancate	VERB
+le	DET
+contestazioni	NOUN
+alla	ADP_A
+visita	NOUN
+...	PUNCT
+http://t.co/ZGLNhEs75s	URL
+
+_____633395067592527872_____
+#Mihajlovic	HASHTAG
+a	ADP
+MC	PROPN
+:	PUNCT
+"	PUNCT
+Dobbiamo	AUX
+giocare	VERB
+sempre	ADV
+per	ADP
+vincere	VERB
+,	PUNCT
+giocherà	VERB
+chi	PRON
+merita	VERB
+.	PUNCT
+#Romagnoli	HASHTAG
+ed	CONJ
+#Ely	HASHTAG
+?	PUNCT
+Hanno	AUX
+fatto	VERB
+bene	ADV
+"	PUNCT
+.	PUNCT
+
+_____585910301247348736_____
+Il	DET
+mio	ADJ
+piccolo	AD
+amore	NOUN
+mentre	SCONJ
+vede	VERB
+@THEVOICE_ITALY	MENTION
+@jaxofficial	MENTION
+http://t.co/PkvGVaB0Lv	URL
+
+_____638689042591145984_____
+Movimento	PROPN
+Eticonomico	PROPN
+02/09/2015	NUM
+Ore	NOUN
+20:30	NUM
+-	PUNCT
+CERVETERI	PROPN
+(	PUNCT
+RM	PROPN
+)	PUNCT
+Agriturismo	PROPN
+Borgo	PROPN
+Dell'	PROPN
+Aschetto	PROPN
+-	PUNCT
+Via	NOUN
+Fosso	PROPN
+Della	PROPN
+Cerqueta	PROPN
+,	PUNCT
+30	NUM
+
+_____634527917503041536_____
+oi	INTJ
+quanto	PRON
+tempo	NOUN
+#askmagcult	HASHTAG
+
+_____602864500543459329_____
+Il	DET
+Catanzaro	PROPN
+continua	VERB
+a	ADP
+credere	VERB
+nella	ADP_A
+possibilità	NOUN
+di	ADP
+riportare	VERB
+in	ADP
+giallorosso	ADJ
+Andrea	PROPN
+Razzitti	PROPN
+,	PUNCT
+anche	ADV
+se	SCONJ
+il	DET
+...	PUNCT
+http://t.co/edVyN6VjOR	URL
+
+_____636128242198556672_____
+Raduno	NOUN
+alla	ADP_A
+caserma	NOUN
+Galliano	PROPN
+e	CONJ
+commemorazione	NOUN
+della	ADP_A
+Grande	PROPN
+Guerra	PROPN
+:	PUNCT
+Lo	DET
+scorso	ADJ
+anno	NOUN
+,	PUNCT
+su	ADP
+iniziativa	NOUN
+di	ADP
+alcuni	DET
+soci	NOUN
+...	PUNCT
+http://t.co/GWIjwOlUGN	URL
+
+_____571562614117040128_____
+Alfano	PROPN
+!	PUNCT
+Ha	VERB
+una	DET
+lingua	NOUN
+migliore	ADJ
+di	ADP
+quella	PRON
+dei	ADP_A
+gatti	NOUN
+!	PUNCT
+La	DET
+merda	NOUN
+la	PRON
+pulisce	VERB
+su	ADP
+bene	ADV
+proprio	ADV
+tutta	PRON
+tutta	PRON
+tutta	PRON
+!	PUNCT
+
+_____553619104431898627_____
+@tvdellosport	MENTION
+scusate	VERB
+ma	CONJ
+vedendo	VERB
+il	DET
+vostro	ADJ
+sito	NOUN
+tmw	X
+ho	AUX
+notato	VERB
+che	SCONJ
+eto'o	PROPN
+andrà	VERB
+quasi	ADV
+sicuramente	ADV
+alla	ADP_A
+samp	PROPN
+.	PUNCT
+vorrei	AUX
+sapere	VERB
+quanto	ADV
+c'	PRON
+e	VERB
+di	ADP
+vero	ADJ
+?	PUNCT
+
+_____576389640967622656_____
+Grazie	ADP
+a	ADP
+@ilSaggiatoreEd	MENTION
+e	CONJ
+a	ADP
+#GiacomoDiGirolamo	HASHTAG
+per	ADP
+#DormonoSullaCollina	HASHTAG
+http://t.co/NxBjEDPsPh	URL
+#SpoonRiver	HASHTAG
+
+_____638642973832441856_____
+E'	AUX
+morto	VERB
+a	ADP
+Pietrasanta	PROPN
+lo	DET
+scrittore	NOUN
+Manlio	PROPN
+Cancogni	PROPN
+:	PUNCT
+Aveva	VERB
+99	NUM
+anni	NOUN
+,	PUNCT
+in	ADP
+lutto	NOUN
+il	DET
+mondo	NOUN
+della	ADP_A
+cultura	NOUN
+.	PUNCT
+Con	ADP
+i	DET
+su...	X
+http://t.co/otgK99eVrc	URL
+
+_____588379071882510338_____
+@Pontifex_it	MENTION
+non	ADV
+faccia	AUX
+partire	VERB
+padre	NOUN
+Graziano	PROPN
+,	PUNCT
+vogliamo	AUX
+sapere	VERB
+che	DET
+fine	NOUN
+abbia	AUX
+fatto	VERB
+guerrina	PROPN
+e	CONJ
+se	SCONJ
+lui	PRON
+ne	PRON
+sa	VERB
+qualcosa	PRON
+al	ADP_A
+riguardo	NOUN
+..	PUNCT
+
+_____570565767906910208_____
+la	DET
+cosa	NOUN
+più	ADV
+triste	ADJ
+,	PUNCT
+è	VERB
+che	SCONJ
+sono	VERB
+certa	ADJ
+del	ADP_A
+fatto	NOUN
+che	SCONJ
+l'	DET
+ospedale	NOUN
+fosse	VERB
+l'	DET
+ultimo	ADJ
+posto	NOUN
+in	ADP
+cui	PRON
+lei	PRON
+sarebbe	AUX
+mai	ADV
+voluta	VERB
+tornare	VERB
+#GetWellSoonDemi	HASHTAG
+
+_____597508400692461569_____
+Pure	ADV
+io	PRON
+volevo	AUX
+fare	VERB
+gli	DET
+auguri	NOUN
+alle	ADP_A
+vostre	ADJ
+mamme	NOUN
+.	PUNCT
+Tutte	DET
+perfette	ADJ
+e	CONJ
+amorevoli	ADJ
+le	DET
+vostre	PRON
+!	PUNCT
+
+_____590076187118034945_____
+Davanti	ADP
+alla	ADP_A
+morte	NOUN
+di	ADP
+700	NUM
+persone	NOUN
+bisognerebbe	VERB
+solo	ADV
+fare	VERB
+silenzio	NOUN
+!	PUNCT
+Grande	ADJ
+Roy	PROPN
+!	PUNCT
+#unomaggiotaranto	HASHTAG
+https://t.co/XdN2wbpM1P	URL
+
+_____648567080107790336_____
+@GliIntoccabili	MENTION
+@nonleggerlo	MENTION
+Ma	CONJ
+Ferrero	PROPN
+?	PUNCT
+il	DET
+compagno	NOUN
+Ferrero	PROPN
+?	PUNCT
+ma	CONJ
+il	DET
+suo	ADJ
+partito	NOUN
+esiste	VERB
+ancora	ADV
+?	PUNCT
+allora	ADV
+stiamo	AUX
+proprio	ADV
+frecati	VERB
+!!!	PUNCT
+
+_____628955797343576065_____
+@Benji_Mascolo	MENTION
+Benji	PROPN
+,	PUNCT
+Fede	PROPN
+😌	EMO
+vi	PRON
+ho	AUX
+fatto	VERB
+queste	DET
+bellissime	ADJ
+foto	NOUN
+🙊😂	EMO
+merito	VERB
+il	DET
+vostro	ADJ
+follow	NOUN
+su	ADP
+🙏🏼	EMO
+@fedefederossi	MENTION
+x85	X
+http://t.co/hKEtlzUoOC	URL
+
+_____566721254137528320_____
+Dai	INTJ
+ritorna	VERB
+@edsheeran	MENTION
+canta	VERB
+ancora	ADV
+ti	PRON
+prego	VERB
+#EdSheeranSanremo2015	HASHTAG
+
+_____645628412225265664_____
+intensità	NOUN
+di	ADP
+vita	NOUN
+https://t.co/jv4aARxzhz	URL
+
+_____644031456810020864_____
+@Pmv_1926	MENTION
+Tutta	DET
+la	DET
+pasticceria	NOUN
+!	PUNCT
+💏	EMO
+Grazie	INTJ
+amore	NOUN
+mio	ADJ
+!	PUNCT
+❤	EMO
+
+_____568143988890468352_____
+"	PUNCT
+non	ADV
+sono	AUX
+stati	AUX
+pubblicati	VERB
+perché	SCONJ
+c’	PRON
+erano	VERB
+cose	NOUN
+più	ADV
+importanti	ADJ
+da	ADP
+fare	VERB
+”	PUNCT
+(	PUNCT
+@Palazzo_Chigi	MENTION
+ha	AUX
+c.ca	VERB
+4mila	NUM
+dipendenti	NOUN
+e	CONJ
+budget	NOUN
+da	ADP
+3mld	NUM
+)	PUNCT
+#editing	HASHTAG
+
+_____627159725042442240_____
+@IleniaNefer	MENTION
+e	CONJ
+fino	ADP
+ad	ADP
+ora	ADV
+direi	VERB
+che	SCONJ
+l	PRON
+ho	AUX
+fatto	VERB
+egregiamente	ADV
+
+_____627880173879341056_____
+ewww	X
+󾓺	EMO
+—	PUNCT
+in	ADP
+viaggio	NOUN
+Roma	PROPN
+
+_____569526376862257152_____
+Vale	VERB
+anche	ADV
+per	ADP
+l'	DET
+educatore	NOUN
+cinofilo	ADJ
+!	PUNCT
+Oggi	ADV
+ho	AUX
+concluso	VERB
+una	DET
+sessione	NOUN
+di	ADP
+lavoro	NOUN
+con	ADP
+un	DET
+cane	NOUN
+adulto	ADJ
+,	PUNCT
+al	ADP_A
+quale	PRON
+tra...	X
+http://t.co/i8AMhk7Ez9	URL
+
+_____602964352421998592_____
+Quanto	ADV
+è	VERB
+gnocco	ADJ
+Rollo	PROPN
+?	PUNCT
+
+_____552833882136264704_____
+"	PUNCT
+@italianfandomC	MENTION
+:	PUNCT
+"	PUNCT
+vorrei	AUX
+conoscere	VERB
+un	DET
+ragazzo	NOUN
+qui	ADV
+su	ADP
+twitter	PROPN
+:	PUNCT
+c	X
+"	PUNCT
+"	PUNCT
+Anche	ADV
+io	PRON
+ewe	X
+
+_____596344569115082752_____
+@giovannibennard	MENTION
+sono	VERB
+malata	ADJ
+io	PRON
+che	PRON
+dobbiamo	AUX
+fare	VERB
+
+_____569170614872875008_____
+#frommywindow	HASHTAG
+.	PUNCT
+Il	DET
+cielo	NOUN
+della	ADP_A
+Bassa	PROPN
+.	PUNCT
+http://t.co/HiNZNxQONk	URL
+
+_____564415436507213824_____
+Tutti	DET
+Frutti	NOUN
+http://t.co/b0z9vy2ddt	URL
+
+_____574676909616939008_____
+Cris	PROPN
+e	CONJ
+Rocco	PROPN
+-	PUNCT
+Scarica	VERB
+l'	DET
+App	NOUN
+e	CONJ
+Vinci	VERB
+il	DET
+Set	NOUN
+della	ADP_A
+3a	NUM
+Serie	NOUN
+!	PUNCT
+@BraccialettiRos	MENTION
+http://t.co/CTAGCF37J2	URL
+
+_____616588068435439616_____
+@jodlivo96	MENTION
+Dream	PROPN
+Catcher	PROPN
+❤	EMO
+https://t.co/so57TWGOzg	URL
+se	SCONJ
+vuoi	VERB
+condividi	VERB
+il	DET
+video	NOUN
+❤	EMO
+grazie	INTJ
+😊	EMO
+
+_____580828215482146816_____
+@alfaeomega82	MENTION
+e	CONJ
+di	ADP
+che	DET
+tesoro	NOUN
+??	PUNCT
+Grazie	ADP
+a	ADP
+te	PRON
+per	ADP
+questa	DET
+meraviglia	NOUN
+👏👏👏💙😘	EMO
+
+_____589317281647353856_____
+Ma	CONJ
+la	DET
+#Boldrini	HASHTAG
+ha	VERB
+qualche	DET
+problema	NOUN
+?	PUNCT
+Parla	VERB
+solo	ADV
+di	ADP
+immigrati	NOUN
+e	CONJ
+di	ADP
+differenza	NOUN
+di	ADP
+genere	NOUN
+.	PUNCT
+Lo	PRON
+saprà	VERB
+che	SCONJ
+esistono	VERB
+anche	ADV
+altri	DET
+problemucci	NOUN
+?	PUNCT
+
+_____575044762362847233_____
+Possiamo	AUX
+giocare	VERB
+anche	ADV
+due	NUM
+giorni	NOUN
+di	ADP
+seguito	NOUN
+,	PUNCT
+non	ADV
+segnamo	VERB
+.	PUNCT
+#jvtblive	HASHTAG
+
+_____553930841630703616_____
+Non	ADV
+so	VERB
+cosa	PRON
+fare	VERB
+...	PUNCT
+
+_____594288946433003520_____
+Vaffanculo	INTJ
+-	PUNCT
+Marco	PROPN
+Masini	PROPN
+-	PUNCT
+Music	PROPN
+Video	NOUN
+-	PUNCT
+VEVO	PROPN
+http://t.co/LPMiNMotJW	URL
+Dedico	VERB
+questa	DET
+cansone	NOUN
+a	ADP
+i	DET
+amici	NOUN
+miei	ADJ
+della	ADP_A
+squadra	NOUN
+Milan	PROPN
+B	PROPN
+lega	NOUN
+QRSL	PROPN
+
+_____597834030504116225_____
+#Nonbeccomailaporta	HASHTAG
+Guarin	PROPN
+stagione	NOUN
+finita	VERB
+?	PUNCT
+Dai	INTJ
+,	PUNCT
+un	DET
+po'	NOUN
+di	ADP
+culo	NOUN
+anche	ADV
+per	ADP
+noi	PRON
+http://t.co/lp5gqbHbPO	URL
+
+_____571618236627849216_____
+Ciampino	PROPN
+.	PUNCT
+Inizio	NOUN
+controllo	NOUN
+della	ADP_A
+velocità	NOUN
+in	ADP
+via	NOUN
+M	PROPN
+.	PUNCT
+Calò	PROPN
+.	PUNCT
+Guidare	VERB
+con	ADP
+prudenza	NOUN
+.	PUNCT
+
+_____633675343925260289_____
+Siete	VERB
+tutti	PRON
+belli	ADJ
+,	PUNCT
+Inte	X
+
+_____619831973163474945_____
+@GiusyMaffi	MENTION
+grazie	INTJ
+cara	ADJ
+altrettanto	ADV
+a	ADP
+te	PRON
+e	CONJ
+tutti	PRON
+@MTrentini	MENTION
+@BiscioneA	MENTION
+@ggl68	MENTION
+@rem64	MENTION
+@alex70guzzi	MENTION
+@ronaldinha71	MENTION
+@marco7315	MENTION
+@Tot89Tore	MENTION
+
+_____606097616473059328_____
+Ciao	INTJ
+amore	NOUN
+.	PUNCT
+Mi	PRON
+segui	VERB
+?	PUNCT
+Mi	PRON
+renderesti	VERB
+felicissima	ADJ
+.	PUNCT
+Ti	PRON
+amo	VERB
+✨	EMO
+@jaser182	MENTION
+x27	X
+
+_____632466091973967872_____
+@ScreamsForHer	MENTION
+ti	PRON
+voglio	VERB
+bene	ADV
+lo	PRON
+sai	VERB
+no	INTJ
+?	PUNCT
+🌈	EMO
+
+_____614455888393453568_____
+#rt	HASHTAG
+seguimi	VERB_CLIT
+e	CONJ
+ti	PRON
+seguo	VERB
+se	SCONJ
+anche	ADV
+tu	PRON
+hai	VERB
+un	DET
+iPhone	PROPN
+.	PUNCT
+xD	EMO
+
+_____578990348862636032_____
+@tinockha1	MENTION
+@LE12QUERCE	MENTION
+@matteosalvinimi	MENTION
+tutti	PRON
+dobbiamo	AUX
+informarci	VERB_CLIT
+c'	PRON
+è	VERB
+sempre	ADV
+da	ADP
+sapere	VERB
+..	PUNCT
+ti	PRON
+posso	AUX
+assicurare	VERB
+che	SCONJ
+le	DET
+donne	NOUN
+Islamiche	ADJ
+hanno	AUX
+
+_____643848441446178816_____
+Anche	ADV
+l'	DET
+Austria	PROPN
+chiude	VERB
+le	DET
+frontiere	NOUN
+:	PUNCT
+In	ADP
+Europa	PROPN
+è	VERB
+ancora	ADV
+caos	NOUN
+per	ADP
+l'	DET
+immigrazione	NOUN
+e	CONJ
+il	DET
+flusso	NOUN
+di	ADP
+migranti	NOUN
+.	PUNCT
+O...	X
+http://t.co/NnhpsSKdsF	URL
+
+_____645199554795687936_____
+Quanto	PRON
+mi	PRON
+stai	VERB
+cazzo	INTJ
+troia	INTJ
+
+_____621660450749554688_____
+Ancora	ADV
+non	ADV
+realizzo	VERB
+che	SCONJ
+tra	ADP
+una	DET
+settimana	NOUN
+saranno	VERB
+5	NUM
+anni	NOUN
+.	PUNCT
+#GrowingUpADirectioner	HASHTAG
+
+_____555117374056431617_____
+Cioè	ADV
+appena	ADV
+arrivata	VERB
+io	PRON
+tutta	DET
+'	PUNCT
+grazie	INTJ
+leader	NOUN
+'	PUNCT
+e	CONJ
+lei	PRON
+manco	ADV
+mi	PRON
+caga	VERB
+la	PRON
+odio	VERB
+addio	INTJ
+
+_____622334428442947584_____
+@fedefederossi	MENTION
+la	DET
+vita	NOUN
+è	VERB
+tutta	PRON
+d'	ADP
+un	DET
+fiato	NOUN
+😍	EMO
+http://t.co/GxBtuY0NjI	URL
+
+_____562895425758572544_____
+@bocca_rosa	MENTION
+buongiorno	INTJ
+anche	ADV
+a	ADP
+te	PRON
+
+_____598565776682024960_____
+Riuscirò	VERB
+a	ADP
+fare	VERB
+due	NUM
+cose	NOUN
+praticamente	ADV
+contemporaneamente	ADV
+?	PUNCT
+No	INTJ
+,	PUNCT
+non	ADV
+ci	PRON
+riuscirò	VERB
+
+_____569248679988744192_____
+“	PUNCT
+@ZAYNV1993	MENTION
+:	PUNCT
+🐼	EMO
+cita	VERB
+e	CONJ
+rispondi	VERB
+della	ADP_A
+panda	PROPN
+.	PUNCT
+🐼	EMO
+Hai	VERB
+qualche	DET
+piercing	NOUN
+o	CONJ
+ne	PRON
+vorresti	VERB
+?	PUNCT
+”	PUNCT
+ne	PRON
+vorrei	VERB
+uno	PRON
+
+_____615857483278602240_____
+#Paritàsessi	HASHTAG
+non	ADV
+è	VERB
+sfoggiare	VERB
+ascelle	NOUN
+pelose	ADJ
+o	CONJ
+#pisciare	HASHTAG
+in	ADP
+un	DET
+imbuto	NOUN
+per	ADP
+farlo	VERB_CLIT
+in	ADP
+piedi	NOUN
+,	PUNCT
+ma	CONJ
+essere	VERB
+libere	ADJ
+di	ADP
+fare	VERB
+,	PUNCT
+insieme	ADV
+,	PUNCT
+carriera	NOUN
+e	CONJ
+figli	NOUN
+
+_____565219168463908865_____
+@liamisntreal	MENTION
+Ti	PRON
+prego	VERB
+,	PUNCT
+mi	PRON
+fai	VERB
+una	DET
+chat	NOUN
+con	ADP
+Michael	PROPN
+C	PROPN
+?	PUNCT
+Non	ADV
+ti	PRON
+chiedo	VERB
+nient'	PRON
+altro	PRON
+,	PUNCT
+dopo	ADV
+ti	PRON
+lascerò	VERB
+stare	VERB
+per	ADP
+sempre	ADV
+.	PUNCT
+Posso	AUX
+affidarmi	VERB_CLIT
+solo	ADV
+a	ADP
+te	PRON
+
+_____585837757953658881_____
+Una	DET
+volta	NOUN
+mi	PRON
+adoravano	VERB
+tutti	PRON
+...	PUNCT
+
+_____635556729586085889_____
+Mercato	NOUN
+:	PUNCT
+#Joaquin	HASHTAG
+sempre	ADV
+più	ADV
+in	ADP
+partenza	NOUN
+,	PUNCT
+mentre	SCONJ
+anche	ADV
+#Vecino	HASHTAG
+pare	VERB
+sia	VERB
+in	ADP
+partenza	NOUN
+verso	ADP
+#Napoli	HASHTAG
+.	PUNCT
+Si	PRON
+parla	VERB
+di	ADP
+...	PUNCT
+http://t.co/KSBqZ4xCsZ	URL
+
+_____624285282163163138_____
+Nasa	PROPN
+:	PUNCT
+"	PUNCT
+Scoperto	VERB
+pianeta	NOUN
+gemello	ADJ
+della	ADP_A
+Terra	PROPN
+"	PUNCT
+anche	ADV
+i	DET
+suoi	ADJ
+abitanti	NOUN
+si	PRON
+lamentano	VERB
+del	ADP_A
+caldo	NOUN
+su	ADP
+#Facebook	HASHTAG
+#Kepler452B	HASHTAG
+
+_____643144924981014528_____
+@elenabtr1d	MENTION
+Ciao	INTJ
+!	PUNCT
+Mia	DET
+sorella	NOUN
+ha	VERB
+un	DET
+canale	NOUN
+YouTube	PROPN
+che	PRON
+si	PRON
+chiama	VERB
+corinnelife97	PROPN
+,	PUNCT
+potresti	AUX
+visitarlo	VERB_CLIT
+e	CONJ
+iscriverti	VERB_CLIT
+se	SCONJ
+ti	PRON
+piace	VERB
+?	PUNCT
+Grazie	INTJ
+💚	EMO
+
+_____569271807334846465_____
+@ftslong	MENTION
+mi	PRON
+faresti	VERB
+felice	ADJ
+se	SCONJ
+me	PRON
+la	PRON
+faresti	AUX
+fare	VERB
+con	ADP
+Louis	PROPN
+:)*	EMO
+
+_____640632983196696576_____
+@CarloAlterego	MENTION
+però	ADV
+ha	AUX
+detto	VERB
+che	SCONJ
+è	AUX
+collegato	VERB
+positivamente	ADV
+alla	ADP_A
+pedofilia	NOUN
+quindi	ADV
+ci	PRON
+vede	VERB
+qualcosa	PRON
+di	ADP
+buono	ADJ
+
+_____574349500476702720_____
+Diffida	VERB
+di	ADP
+tutto	PRON
+..	PUNCT
+tranne	ADP
+di	ADP
+quello	PRON
+che	PRON
+ti	PRON
+dice	VERB
+il	DET
+cuore	NOUN
+.	PUNCT
+
+_____636502747433553920_____
+Sbaglio	VERB
+o	CONJ
+è	VERB
+l'	DET
+ora	NOUN
+della	ADP_A
+pausa	NOUN
+pranzo	NOUN
+?	PUNCT
+Dopo	ADP
+la	DET
+colazione	NOUN
+di	ADP
+stamani	ADV
+…	PUNCT
+@llska	MENTION
+http://t.co/rdyejK1f91	URL
+
+_____606078101420933120_____
+Arco	PROPN
+di	ADP
+Constantino	PROPN
+@Roma	MENTION
+,	PUNCT
+Italia	PROPN
+https://t.co/7uFFSzD1fJ	URL
+http://t.co/DEShd564gd	URL
+
+_____580837021557628928_____
+@Pjdona	MENTION
+@spontonc	MENTION
+...	PUNCT
+e	CONJ
+aspettiamo	VERB
+.	PUNCT
+Non	ADV
+possiamo	AUX
+fare	VERB
+altro	PRON
+.	PUNCT
+
+_____618425633811628032_____
+@Benji_Mascolo	MENTION
+amore	NOUN
+non	ADV
+stare	VERB
+male	ADV
+,	PUNCT
+ti	PRON
+porterai	VERB
+dietro	ADP
+tutti	DET
+i	DET
+bei	ADJ
+momenti	NOUN
+passati	VERB
+con	ADP
+ILE	PROPN
+...	PUNCT
+😔	EMO
+❤️	EMO
+
+_____552116017955360768_____
+meno	ADV
+di	ADP
+quarto	NOUN
+di	ADP
+vita	NOUN
+
+_____615553699104960512_____
+Vuoi	AUX
+trascorrere	VERB
+una	DET
+serata	NOUN
+elegante	ADJ
+e	CONJ
+raffinata	ADJ
+in	ADP
+compagnia	NOUN
+,	PUNCT
+abbandonandoti	VERB_CLIT
+ai	ADP_A
+piaceri	NOUN
+della	ADP_A
+buona	ADJ
+cucina	NOUN
+...	PUNCT
+http://t.co/fxOaUoBTdv	URL
+
+_____563429496435388416_____
+@94iharry	MENTION
+ti	PRON
+prego	VERB
+ti	PRON
+stresso	VERB
+da	ADP
+6	NUM
+giorni	NOUN
+,	PUNCT
+aggiungi	VERB
+anche	ADV
+me	PRON
+per	ADP
+favore	NOUN
+1232321	NUM
+
+_____551504396945981440_____
+@abbracciamipipu	MENTION
+non	ADV
+immagini	NOUN
+quanto	ADV
+😂	EMO
+
+_____598044497205960705_____
+@sunljam	MENTION
+le	DET
+graduatorie	NOUN
+per	ADP
+chi	PRON
+deve	AUX
+partecipare	VERB
+alla	ADP_A
+vacanza	NOUN
+inpdap	PROPN
+,	PUNCT
+poi	ADV
+in	ADP
+base	NOUN
+alla	ADP_A
+posizione	NOUN
+si	PRON
+sceglie	VERB
+dove	ADV
+andare	VERB
+:)	EMO
+
+_____578207980744798208_____
+@bvasket	MENTION
+quello	PRON
+che	PRON
+voglio	VERB
+e	CONJ
+non	ADV
+devo	AUX
+mettere	VERB
+conto	NOUN
+a	ADP
+te	PRON
+,	PUNCT
+anche	ADV
+perché	ADV
+chi	PRON
+ti	PRON
+stava	AUX
+cacando	VERB
+lol	INTJ
+
+_____573444509767503872_____
+LINK	NOUN
+:	PUNCT
+http://t.co/bezQmQRojs	URL
+|	SYM
+#marito	HASHTAG
+#cornuto	HASHTAG
+#moglie	HASHTAG
+|	SYM
+Donna	NOUN
+Cerca	VERB
+Uomo	NOUN
+Roma	PROPN
+ARYIANI	PROPN
+TRANS	PROPN
+ASIATICA	PROPN
+…	PUNCT
+LA	DET
+TUA	ADJ
+DEA	NOUN
+DEL	ADP_A
+SESSO	NOUN
+
+_____551898543670448128_____
+C'	PRON
+è	VERB
+ancora	ADV
+qualcuno	PRON
+?	PUNCT
+#Rt	HASHTAG
+seguimi	VERB_CLIT
+e	CONJ
+ti	PRON
+seguo	VERB
+.	PUNCT
+Non	ADV
+so	VERB
+cosa	PRON
+fare	VERB
+e	CONJ
+non	ADV
+sto	VERB
+nemmeno	ADV
+bene	ADV
+c.c	X
+shit	INTJ
+
+_____565898362525081600_____
+@CorriereAdriati	MENTION
+complimenti	NOUN
+a	ADP
+tutti	PRON
+e	CONJ
+in	ADP
+particolare	NOUN
+a	ADP
+@GianMarioSpacca	MENTION
+per	ADP
+gli	DET
+occhiali	NOUN
+nuovi	ADJ
+
+_____617925482483482625_____
+"	PUNCT
+Friuli	PROPN
+Venezia	PROPN
+Giulia	PROPN
+,	PUNCT
+contributi	NOUN
+per	ADP
+l'	DET
+efficientamento	NOUN
+energetico	ADJ
+della	ADP_A
+prima	ADJ
+casa	NOUN
+"	PUNCT
+http://t.co/OARm9KdMX2	URL
+#energia	HASHTAG
+#feedly	HASHTAG
+
+_____588075906398302209_____
+Christì	PROPN
+fai	VERB
+meglio	ADV
+a	ADP
+cancellare	VERB
+tutto	DET
+ciò	PRON
+che	PRON
+è	AUX
+successo	VERB
+dal	ADP_A
+quel	ADJ
+cazzo	NOUN
+di	ADP
+2	NUM
+luglio	NOUN
+2012	NUM
+a	ADP
+settembre	NOUN
+2014	NUM
+grazie	INTJ
+
+_____562695665449721856_____
+Foto	NOUN
+:	PUNCT
+I	DET
+BR	PROPN
+alla	ADP_A
+Fiera	PROPN
+del	PROPN
+Levante	PROPN
+-	PUNCT
+Scarica	VERB
+l'	DET
+app	NOUN
+e	CONJ
+diventa	VERB
+un	DET
+braccialetto	NOUN
+http://t.co/sbhRImFnXb	URL
+@BraccialettiRos	MENTION
+http://t.co/uaSLQiCIZd	URL
+
+_____596181699743981568_____
+"	PUNCT
+...	PUNCT
+Come	ADV
+il	DET
+Padre	PROPN
+ha	AUX
+amato	VERB
+me	PRON
+,	PUNCT
+così	ADV
+anch'	ADV
+io	PRON
+ho	AUX
+amato	VERB
+voi	PRON
+.	PUNCT
+Rimanete	VERB
+nel	ADP_A
+mio	ADJ
+amore	NOUN
+...	PUNCT
+"	PUNCT
+http://t.co/MAubCTREXQ	URL
+
+_____572401098021056512_____
+@zainismyikigai	MENTION
+mi	PRON
+dispiace	VERB
+,	PUNCT
+vedrai	VERB
+che	SCONJ
+un	DET
+giorno	NOUN
+ce	PRON
+la	PRON
+farai	VERB
+anche	ADV
+tu	PRON
+💋	EMO
+Puoi	AUX
+rt	VERB
+il	DET
+tweet	NOUN
+degli	ADP_A
+indiretti	NOUN
+?	PUNCT
+
+_____622350912456146944_____
+😋💬	EMO
+..	PUNCT
+ok	INTJ
+,	PUNCT
+spesa	NOUN
+fatta	VERB
+e	CONJ
+tutto	PRON
+al	ADP_A
+loro	ADJ
+posto	NOUN
+😃💬	EMO
+..	PUNCT
+non	ADV
+cerco	VERB
+musica	NOUN
+,	PUNCT
+mi	PRON
+sto	VERB
+con	ADP
+voi	PRON
+,	PUNCT
+così	ADV
+aspissiamo	VERB
+di	ADP
+più	ADV
+:]	EMO
+
+_____564475056353722373_____
+Roma	PROPN
+,	PUNCT
+Astori	PROPN
+:	PUNCT
+"	PUNCT
+Ci	PRON
+tenevamo	VERB
+a	ADP
+rispondere	VERB
+alla	ADP_A
+Juve	PROPN
+"	PUNCT
+http://t.co/hVS8tqGakf	URL
+#AgenteFifa	HASHTAG
+#DavideFanizza	HASHTAG
+
+_____626726219892039680_____
+datemi	VERB_CLIT
+questi	DET
+ultimi	ADJ
+due	NUM
+episodi	NOUN
+forza	INTJ
+
+_____587528526988992513_____
+@MirkoTrovato00	MENTION
+come	ADV
+devo	AUX
+fare	VERB
+per	ADP
+avere	VERB
+una	DET
+tua	ADJ
+risposta	NOUN
+?	PUNCT
+😭	EMO
+❤	EMO
+x5	X
+
+_____580809242820657153_____
+Grazie	INTJ
+mille	NUM
+,	PUNCT
+grazie	ADP
+a	ADP
+chi	PRON
+ci	PRON
+sta	VERB
+vicino	ADV
+.	PUNCT
+#SwiftiesAreHereForDirectioners	HASHTAG
+
+_____574907511742033920_____
+-	PUNCT
+Cosa	PRON
+fai	VERB
+nella	ADP_A
+vita	NOUN
+?	PUNCT
+-	PUNCT
+Mi	PRON
+guardo	VERB
+sbagliare	VERB
+e	CONJ
+sorrido	VERB
+rassegnato	VERB
+.	PUNCT
+
+_____640437018527440896_____
+@GiusAmbr	MENTION
+@agostinomela	MENTION
+Quando	ADV
+invece	ADV
+riaprii	VERB
+i	DET
+miei	ADJ
+occhi	NOUN
+mi	PRON
+accorsi	VERB
+che	SCONJ
+non	ADV
+era	VERB
+un	DET
+sogno	NOUN
+...	PUNCT
+Era	VERB
+tutto	PRON
+nitido	ADJ
+e	CONJ
+reale	ADJ
+!	PUNCT
+Grigio	ADJ
+e	CONJ
+freddo	ADJ
+...	PUNCT
+
+_____563281896181096449_____
+#UNIFIL	HASHTAG
+1°	ADJ
+tripartite	ADJ
+meeting	NOUN
+dopo	ADP
+uccisione	NOUN
+casco	PROPN
+blu	PROPN
+Clima	NOUN
+preoccupazione	NOUN
+per	ADP
+sicurezza	NOUN
+@UNIFILSpokesman	MENTION
+@SM_Difesa	MENTION
+http://t.co/oVSCknfJze	URL
+
+_____564770263615950848_____
+Fin'	ADP
+ora	ADV
+ha	AUX
+nevicato	VERB
+pochissimo	ADV
+...	PUNCT
+Quanto	ADV
+scommettiamo	VERB
+che	SCONJ
+ora	ADV
+che	PRON
+sto	AUX
+andando	VERB
+al	ADP_A
+bar	NOUN
+con	ADP
+gli	DET
+amici	NOUN
+inizia	VERB
+a	ADP
+nevicare	VERB
+forte	ADV
+?	PUNCT
+
+_____591604658981994497_____
+@/DRUMMERS94s	MENTION
+mi	PRON
+piace	VERB
+tutto	PRON
+tranne	ADP
+il	DET
+nick@	NOUN
+👼	EMO
+
+_____603606942095941632_____
+Ma	CONJ
+che	PRON
+Lega	PROPN
+e	CONJ
+PD	PROPN
+o	CONJ
+forza	PROPN
+Italia	PROPN
+!	PUNCT
+Qui	ADV
+cé	VERB
+in	ADP
+un	DET
+comune	NOUN
+il	DET
+partito	PROPN
+du	PROPN
+PILU	PROPN
+che	PRON
+mette	VERB
+d'	ADP
+accordo	NOUN
+tutti	PRON
+!	PUNCT
+#qualunquemente	HASHTAG
+http://t.co/HpOUUR10YF	URL
+
+_____640594555188981760_____
+La	DET
+più	ADV
+grande	ADJ
+prova	NOUN
+d'	ADP
+amore	NOUN
+è	AUX
+sempre	ADV
+stata	VERB
+togliersi	VERB_CLIT
+dai	ADP_A
+coglioni	NOUN
+.	PUNCT
+
+_____639381508512464896_____
+@grandeftpizza	MENTION
+tecnico	ADJ
+turistico	ADJ
+,	PUNCT
+te	PRON
+devi	AUX
+fare	VERB
+il	DET
+primo	ADJ
+giusto	ADJ
+?	PUNCT
+
+_____598079095990255616_____
+Ma	CONJ
+tutto	DET
+questo	DET
+caldo	NOUN
+è	VERB
+legale	ADJ
+?	PUNCT
+
+_____601071129810309120_____
+@juventusfc	MENTION
+E	CONJ
+come	ADP
+se	SCONJ
+vogliamo	AUX
+vincerla	VERB_CLIT
+,	PUNCT
+forza	NOUN
+ragazzi	NOUN
+!!!!!!!	PUNCT
+
+_____576339030981349376_____
+Scene	PROPN
+da	ADP
+BraccialettiLive	PROPN
+-	PUNCT
+Scarica	VERB
+l'	DET
+App	NOUN
+e	CONJ
+Vinci	VERB
+il	DET
+Set	NOUN
+della	ADP_A
+3a	NUM
+Serie	NOUN
+!	PUNCT
+@BraccialettiRos	MENTION
+http://t.co/ZOFQuaon3l	URL
+
+_____572828213916913665_____
+"	PUNCT
+@xheaveniallx	MENTION
+:	PUNCT
+✨	EMO
+Cita	VERB
+e	CONJ
+rispondi	VERB
+di	ADP
+feds	PROPN
+✨	EMO
+Cosa	NOUN
+pensi	VERB
+della	ADP_A
+tua	ADJ
+vita	NOUN
+?	PUNCT
+"	PUNCT
+che	SCONJ
+fa	VERB
+schifo	NOUN
+
+_____643144159520493568_____
+Tutto	PRON
+fermo	ADJ
+Perché	ADV
+?	PUNCT
+?	PUNCT
+?	PUNCT
+!!!!	PUNCT
+Ci	PRON
+aiutate	VERB
+???	PUNCT
+http://t.co/GKIVp9xHCo	URL
+
+_____552127185897541633_____
+#Fiorentina	HASHTAG
+PUCCI	PROPN
+(	PUNCT
+Accvc	X
+)	PUNCT
+A	ADP
+FI	PROPN
+.	PUNCT
+IT	PROPN
+:	PUNCT
+"	PUNCT
+Neto	PROPN
+?	PUNCT
+Arrivederci	INTJ
+e	CONJ
+grazie	INTJ
+.	PUNCT
+La	DET
+Fiorentina	PROPN
+ne	PRON
+prenderà	VERB
+uno	PRON
+meglio	ADV
+"	PUNCT
+:	PUNCT
+...	PUNCT
+http://t.co/JxApjLDor6	URL
+#Viola	HASHTAG
+
+_____568497739891392512_____
+@stringimiharold	MENTION
+@Harry_Styles	MENTION
+caga	VERB
+rorj	PROPN
+o	CONJ
+ti	PRON
+picchio	VERB
+,	PUNCT
+e	CONJ
+se	SCONJ
+magari	ADV
+caghi	VERB
+anche	ADV
+me	PRON
+non	ADV
+mi	PRON
+offendo	VERB
+eh	INTJ
+hahaha	INTJ
+
+_____579770497438781440_____
+Un	DET
+ringraziamento	NOUN
+a	ADP
+tutti	DET
+i	DET
+clienti	NOUN
+,	PUNCT
+a	ADP
+quelli	PRON
+ke	PRON
+vengono	VERB
+da	ADP
+anni	NOUN
+,	PUNCT
+a	ADP
+quelli	PRON
+nuovi	ADJ
+e	CONJ
+a	ADP
+quelli	PRON
+ke	PRON
+lo	PRON
+diventeranno	VERB
+...	PUNCT
+http://t.co/LyqnZvLerb	URL
+
+_____637177536687026176_____
+Io	PRON
+faccio	VERB
+di	ADP
+tutto	PRON
+e	CONJ
+lei	PRON
+ha	VERB
+ancora	ADV
+la	DET
+faccia	NOUN
+di	ADP
+ignorarmi	VERB_CLIT
+,	PUNCT
+perché	ADV
+sono	VERB
+così	ADV
+stupida	NOUN
+?	PUNCT
+L'	PRON
+avrei	AUX
+dovuta	AUX
+mandare	VERB
+a	ADP
+fanculo	VERB
+da	ADP
+tempo	NOUN
+.	PUNCT
+
+_____565209500316364800_____
+Ultimamente	ADV
+le	DET
+band	NOUN
+sono	AUX
+divise	VERB
+in	ADP
+:	PUNCT
+chi	PRON
+molla	VERB
+e	CONJ
+,	PUNCT
+chi	PRON
+annuncia	VERB
+super	ADJ
+tour	NOUN
+dove	ADV
+ovviamente	ADV
+l'	DET
+Italia	PROPN
+NON	ADV
+ESISTE	VERB
+.	PUNCT
+
+_____571947735294873600_____
+@GScarcina	MENTION
+Ciao	INTJ
+☺️	EMO
+se	SCONJ
+hai	VERB
+posti	NOUN
+liberi	ADJ
+nel	ADP_A
+gruppo	NOUN
+sull'	ADP_A
+app	NOUN
+di	ADP
+braccialetti	PROPN
+Rossi	PROPN
+puoi	AUX
+aggiungermi	VERB_CLIT
+?	PUNCT
+Myriam	PROPN
+baldi	PROPN
+,	PUNCT
+posizione	NOUN
+14	NUM
+Grazie	INTJ
+❤️	EMO
+

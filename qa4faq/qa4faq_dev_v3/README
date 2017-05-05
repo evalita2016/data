@@ -1,0 +1,40 @@
+EVALITA 2016 - QA4FAQ ­ Question Answering for Frequently Asked Questions
+===========================================================================
+Version 3 - 26/07/2016
+
+This package contains the development data for the EVALITA-2016 QA4FAQ task.
+
+It contains five files.
+
+1) README: this file
+
+2) faqs_utf8_QA.csv: a CSV formatted input text encoded in UTF-8. The CSV contains FAQs, values are separated using the ';' character. Each FAQ is described by the following fields: id (a number that uniquely identifies the FAQ), question (the question text of the current FAQ), answer (the answer text of the current FAQ), and tag (a set of tags separated by ‘,’).
+
+3) faqs_utf8_QA.xml contains the same data of faqs_utf8_QA.csv, but in XML format.
+
+4) query_dev.tsv: a tab separated value file which contains two fields: the query id and the query text.
+
+5) answer_dev.tsv:  a tab separated value file which contains three fields: the query id, the faq id and the relevance score. This file is an example of output for the file query_dev.tsv.
+
+Task guideline: https://drive.google.com/open?id=0B9zwc2pyNmBkeG1faVYtR3BCR2s
+
+Task web site: http://qa4faq.github.io/
+
+Organizers
+-------------
+
+- Annalina Caputo, Dipartimento di Informatica, Università degli Studi di Bari Aldo Moro
+- Marco de Gemmis, QuestionCube S.r.l.
+- Pasquale Lops, Dipartimento di Informatica, Università degli Studi di Bari Aldo Moro
+- Francesco Lovecchio, AQP S.p.a.
+- Vito Manzari, SudSistemi S.r.l.
+
+Contact
+----------
+
+If you have any questions, please contact us: qa4faq@gmail.com.
+
+Google Group
+---------------
+
+https://groups.google.com/forum/#!forum/qa4faq
