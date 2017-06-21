@@ -96,3 +96,5 @@ Notices:
 * No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
 https://creativecommons.org/licenses/by-nc-sa/3.0/it/deed.en
+
+Any Content provided to third parties remains subject to this Policy, and those third parties must agree to the Twitter [Terms of Service](https://twitter.com/tos), [Privacy Policy](https://twitter.com/privacy), [Developer Agreement](https://dev.twitter.com/overview/terms/agreement), and [Developer Policy](https://dev.twitter.com/overview/terms/policy).
