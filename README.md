@@ -97,4 +97,4 @@ Notices:
 
 https://creativecommons.org/licenses/by-nc-sa/3.0/it/deed.en
 
-Any Content provided to third parties remains subject to this Policy, and those third parties must agree to the Twitter [Terms of Service](https://twitter.com/tos), [Privacy Policy](https://twitter.com/privacy), [Developer Agreement](https://dev.twitter.com/overview/terms/agreement), and [Developer Policy](https://dev.twitter.com/overview/terms/policy).
+Any Content provided to third parties remains subject to the [Twitter's Developer Agreement & Policy](https://dev.twitter.com/overview/terms/agreement-and-policy), and those third parties must agree to the [Twitter Terms of Service](https://twitter.com/tos), [Privacy Policy](https://twitter.com/privacy), [Developer Agreement](https://dev.twitter.com/overview/terms/agreement), and [Developer Policy](https://dev.twitter.com/overview/terms/policy) before receiving such downloads.
